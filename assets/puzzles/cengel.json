@@ -1,0 +1,557 @@
+[
+ {
+  "schema": 1,
+  "id": "cengel-kolay-01",
+  "version": 1,
+  "type": "cengel",
+  "difficulty": "kolay",
+  "title": "Çengel bulmaca I",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 11,
+  "cols": 10,
+  "grid": [
+   "##########",
+   "#D#KUŞ###K",
+   "#EGE##BABA",
+   "#P#D##A##P",
+   "#R#İ#EYLÜL",
+   "#E##T#R##A",
+   "#MAĞARA##N",
+   "##R#V#MAÇ#",
+   "##M#Ş####N",
+   "#CUMARTESİ",
+   "##T#N####L"
+  ],
+  "entries": [
+   {
+    "id": "e1",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 1,
+    "answer": "DEPREM",
+    "clue": "Yer kabuğundaki sarsıntı"
+   },
+   {
+    "id": "e2",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 3,
+    "answer": "KEDİ",
+    "clue": "Miyavlayan evcil hayvan"
+   },
+   {
+    "id": "e3",
+    "dir": "A",
+    "clueR": 1,
+    "clueC": 2,
+    "answer": "KUŞ",
+    "clue": "Kanatlarıyla uçan hayvan"
+   },
+   {
+    "id": "e4",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 9,
+    "answer": "KAPLAN",
+    "clue": "Çizgili postuyla tanınan büyük yırtıcı kedi"
+   },
+   {
+    "id": "e5",
+    "dir": "A",
+    "clueR": 2,
+    "clueC": 0,
+    "answer": "EGE",
+    "clue": "Türkiye ile Yunanistan arasındaki deniz"
+   },
+   {
+    "id": "e6",
+    "dir": "D",
+    "clueR": 1,
+    "clueC": 6,
+    "answer": "BAYRAM",
+    "clue": "Herkesin sevinçle kutladığı özel gün"
+   },
+   {
+    "id": "e7",
+    "dir": "A",
+    "clueR": 2,
+    "clueC": 5,
+    "answer": "BABA",
+    "clue": "Çocuğu olan erkek"
+   },
+   {
+    "id": "e8",
+    "dir": "A",
+    "clueR": 4,
+    "clueC": 4,
+    "answer": "EYLÜL",
+    "clue": "Yılın dokuzuncu ayı"
+   },
+   {
+    "id": "e9",
+    "dir": "D",
+    "clueR": 4,
+    "clueC": 4,
+    "answer": "TAVŞAN",
+    "clue": "Uzun kulaklı, havuç sevdiği söylenen hayvan"
+   },
+   {
+    "id": "e10",
+    "dir": "A",
+    "clueR": 6,
+    "clueC": 0,
+    "answer": "MAĞARA",
+    "clue": "Kayalıklardaki doğal oyuk"
+   },
+   {
+    "id": "e11",
+    "dir": "D",
+    "clueR": 5,
+    "clueC": 2,
+    "answer": "ARMUT",
+    "clue": "Alt tarafı şişkin, sulu meyve"
+   },
+   {
+    "id": "e12",
+    "dir": "A",
+    "clueR": 7,
+    "clueC": 5,
+    "answer": "MAÇ",
+    "clue": "İki takım arasındaki karşılaşma"
+   },
+   {
+    "id": "e13",
+    "dir": "D",
+    "clueR": 7,
+    "clueC": 9,
+    "answer": "NİL",
+    "clue": "Mısır’ın hayat damarı sayılan nehir"
+   },
+   {
+    "id": "e14",
+    "dir": "A",
+    "clueR": 9,
+    "clueC": 0,
+    "answer": "CUMARTESİ",
+    "clue": "Haftanın altıncı günü"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "cengel-kolay-02",
+  "version": 1,
+  "type": "cengel",
+  "difficulty": "kolay",
+  "title": "Çengel bulmaca II",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 10,
+  "cols": 11,
+  "grid": [
+   "###########",
+   "#Ç#G#İNEK#B",
+   "#A#O####Ü#U",
+   "#YALAN##TUZ",
+   "##D###T#Ü##",
+   "#YAĞMUR#P##",
+   "#Ü####A#H#G",
+   "#Z##NOKTA#A",
+   "#M####Y#N#Z",
+   "#E###KALECİ"
+  ],
+  "entries": [
+   {
+    "id": "e1",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 1,
+    "answer": "ÇAY",
+    "clue": "Demlenip bardakta içilen sıcak içecek"
+   },
+   {
+    "id": "e2",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 3,
+    "answer": "GOL",
+    "clue": "Topun ağlara gitmesi"
+   },
+   {
+    "id": "e3",
+    "dir": "A",
+    "clueR": 1,
+    "clueC": 4,
+    "answer": "İNEK",
+    "clue": "Süt veren büyük evcil hayvan"
+   },
+   {
+    "id": "e4",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 8,
+    "answer": "KÜTÜPHANE",
+    "clue": "Kitapların ödünç alınabildiği yer"
+   },
+   {
+    "id": "e5",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 10,
+    "answer": "BUZ",
+    "clue": "Donmuş su"
+   },
+   {
+    "id": "e6",
+    "dir": "A",
+    "clueR": 3,
+    "clueC": 0,
+    "answer": "YALAN",
+    "clue": "Gerçeğe aykırı söz"
+   },
+   {
+    "id": "e7",
+    "dir": "D",
+    "clueR": 2,
+    "clueC": 2,
+    "answer": "ADA",
+    "clue": "Dört yanı sularla çevrili kara parçası"
+   },
+   {
+    "id": "e8",
+    "dir": "A",
+    "clueR": 3,
+    "clueC": 7,
+    "answer": "TUZ",
+    "clue": "Yemeğe lezzet veren beyaz mineral"
+   },
+   {
+    "id": "e9",
+    "dir": "D",
+    "clueR": 3,
+    "clueC": 6,
+    "answer": "TRAKYA",
+    "clue": "Türkiye’nin Avrupa’daki bölümü"
+   },
+   {
+    "id": "e10",
+    "dir": "A",
+    "clueR": 5,
+    "clueC": 0,
+    "answer": "YAĞMUR",
+    "clue": "Bulutlardan damla damla düşen su"
+   },
+   {
+    "id": "e11",
+    "dir": "D",
+    "clueR": 4,
+    "clueC": 1,
+    "answer": "YÜZME",
+    "clue": "Suda yapılan spor"
+   },
+   {
+    "id": "e12",
+    "dir": "D",
+    "clueR": 5,
+    "clueC": 10,
+    "answer": "GAZİ",
+    "clue": "Savaştan sağ dönene verilen unvan"
+   },
+   {
+    "id": "e13",
+    "dir": "A",
+    "clueR": 7,
+    "clueC": 3,
+    "answer": "NOKTA",
+    "clue": "Cümlenin sonuna konan işaret"
+   },
+   {
+    "id": "e14",
+    "dir": "A",
+    "clueR": 9,
+    "clueC": 4,
+    "answer": "KALECİ",
+    "clue": "Kaleyi koruyan oyuncu"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "cengel-orta-03",
+  "version": 1,
+  "type": "cengel",
+  "difficulty": "orta",
+  "title": "Çengel bulmaca III",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+   "###########",
+   "#GÜNDÜZ##S#",
+   "####Ü###VAN",
+   "##KARDEŞ#K#",
+   "####B#D##A#",
+   "#Y#JÜPİTER#",
+   "#O##N#R##Y#",
+   "#Ğ####N#KAS",
+   "#U#NEŞE#A#E",
+   "#R#E####Z#S",
+   "#TİYATRO###"
+  ],
+  "entries": [
+   {
+    "id": "e1",
+    "dir": "A",
+    "clueR": 1,
+    "clueC": 0,
+    "answer": "GÜNDÜZ",
+    "clue": "Güneşli saatler"
+   },
+   {
+    "id": "e2",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 4,
+    "answer": "DÜRBÜN",
+    "clue": "Uzağı yakın gösteren çift gözlü araç"
+   },
+   {
+    "id": "e3",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 9,
+    "answer": "SAKARYA",
+    "clue": "1921’de Meydan Muharebesi’nin yapıldığı akarsu"
+   },
+   {
+    "id": "e4",
+    "dir": "A",
+    "clueR": 2,
+    "clueC": 7,
+    "answer": "VAN",
+    "clue": "Gölü ve kedisiyle ünlü doğu ili"
+   },
+   {
+    "id": "e5",
+    "dir": "A",
+    "clueR": 3,
+    "clueC": 1,
+    "answer": "KARDEŞ",
+    "clue": "Aynı anne babanın çocuğu"
+   },
+   {
+    "id": "e6",
+    "dir": "D",
+    "clueR": 2,
+    "clueC": 6,
+    "answer": "EDİRNE",
+    "clue": "Selimiye Camii’nin bulunduğu Trakya ili"
+   },
+   {
+    "id": "e7",
+    "dir": "D",
+    "clueR": 4,
+    "clueC": 1,
+    "answer": "YOĞURT",
+    "clue": "Sütün mayalanmasıyla elde edilen besin"
+   },
+   {
+    "id": "e8",
+    "dir": "A",
+    "clueR": 5,
+    "clueC": 2,
+    "answer": "JÜPİTER",
+    "clue": "Güneş Sistemi’nin en büyük gezegeni"
+   },
+   {
+    "id": "e9",
+    "dir": "A",
+    "clueR": 7,
+    "clueC": 7,
+    "answer": "KAS",
+    "clue": "Hareket etmemizi sağlayan doku"
+   },
+   {
+    "id": "e10",
+    "dir": "D",
+    "clueR": 6,
+    "clueC": 8,
+    "answer": "KAZ",
+    "clue": "Sürüsüyle göç eden iri su kuşu"
+   },
+   {
+    "id": "e11",
+    "dir": "D",
+    "clueR": 6,
+    "clueC": 10,
+    "answer": "SES",
+    "clue": "Kulağımızın algıladığı titreşim"
+   },
+   {
+    "id": "e12",
+    "dir": "A",
+    "clueR": 8,
+    "clueC": 2,
+    "answer": "NEŞE",
+    "clue": "İçten gelen sevinç"
+   },
+   {
+    "id": "e13",
+    "dir": "D",
+    "clueR": 7,
+    "clueC": 3,
+    "answer": "NEY",
+    "clue": "Kamıştan yapılan üflemeli çalgı"
+   },
+   {
+    "id": "e14",
+    "dir": "A",
+    "clueR": 10,
+    "clueC": 0,
+    "answer": "TİYATRO",
+    "clue": "Oyuncuların sahnede canlandırdığı eser"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "cengel-zor-04",
+  "version": 1,
+  "type": "cengel",
+  "difficulty": "zor",
+  "title": "Çengel bulmaca IV",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+   "###########",
+   "#ÖYKÜ###D##",
+   "###E#H##O#T",
+   "#S#BREZİLYA",
+   "#T#A#C##A#K",
+   "#ALPLER#P#V",
+   "#T#####T##İ",
+   "####ERZURUM",
+   "#K##L##N#Ç#",
+   "#Ö##M##A#A#",
+   "#KANADA##K#"
+  ],
+  "entries": [
+   {
+    "id": "e1",
+    "dir": "A",
+    "clueR": 1,
+    "clueC": 0,
+    "answer": "ÖYKÜ",
+    "clue": "Kısa kurgusal anlatı"
+   },
+   {
+    "id": "e2",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 3,
+    "answer": "KEBAP",
+    "clue": "Közde pişirilen et yemeği"
+   },
+   {
+    "id": "e3",
+    "dir": "D",
+    "clueR": 0,
+    "clueC": 8,
+    "answer": "DOLAP",
+    "clue": "Giysi ve eşyaların konulduğu mobilya"
+   },
+   {
+    "id": "e4",
+    "dir": "D",
+    "clueR": 1,
+    "clueC": 5,
+    "answer": "HECE",
+    "clue": "Tek solukta söylenen ses birimi"
+   },
+   {
+    "id": "e5",
+    "dir": "D",
+    "clueR": 1,
+    "clueC": 10,
+    "answer": "TAKVİM",
+    "clue": "Günleri ve ayları gösteren çizelge"
+   },
+   {
+    "id": "e6",
+    "dir": "D",
+    "clueR": 2,
+    "clueC": 1,
+    "answer": "STAT",
+    "clue": "Maçların oynandığı geniş alan"
+   },
+   {
+    "id": "e7",
+    "dir": "A",
+    "clueR": 3,
+    "clueC": 2,
+    "answer": "BREZİLYA",
+    "clue": "Karnavalıyla ünlü Güney Amerika ülkesi"
+   },
+   {
+    "id": "e8",
+    "dir": "A",
+    "clueR": 5,
+    "clueC": 0,
+    "answer": "ALPLER",
+    "clue": "Avrupa’nın en yüksek dağ silsilesi"
+   },
+   {
+    "id": "e9",
+    "dir": "D",
+    "clueR": 5,
+    "clueC": 7,
+    "answer": "TUNA",
+    "clue": "Avrupa’nın ikinci uzun nehri"
+   },
+   {
+    "id": "e10",
+    "dir": "A",
+    "clueR": 7,
+    "clueC": 3,
+    "answer": "ERZURUM",
+    "clue": "Cağ kebabı ve sert kışıyla bilinen Doğu Anadolu ili"
+   },
+   {
+    "id": "e11",
+    "dir": "D",
+    "clueR": 6,
+    "clueC": 4,
+    "answer": "ELMA",
+    "clue": "Adem ile Havva’ya atfedilen yuvarlak meyve"
+   },
+   {
+    "id": "e12",
+    "dir": "D",
+    "clueR": 6,
+    "clueC": 9,
+    "answer": "UÇAK",
+    "clue": "Havada giden taşıt"
+   },
+   {
+    "id": "e13",
+    "dir": "D",
+    "clueR": 7,
+    "clueC": 1,
+    "answer": "KÖK",
+    "clue": "Sözcüğün anlamlı en küçük parçası"
+   },
+   {
+    "id": "e14",
+    "dir": "A",
+    "clueR": 10,
+    "clueC": 0,
+    "answer": "KANADA",
+    "clue": "Bayrağında akçaağaç yaprağı olan ülke"
+   }
+  ]
+ }
+]

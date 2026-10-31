@@ -1,0 +1,68 @@
+BULMACA GAZETESİ — APP STORE METİNLERİ (Türkçe)
+
+== Promotional Text (en çok 170) — 169 karakter
+Gazetenin bulmaca keyfi, dijitalin rahatlığı: çengel, kare, klasik bulmaca ve Sudoku. 400 bulmaca, gerçek sayfa çevirme hissi, anında geri bildirim. İnternetsiz oynanır.
+
+== Description (en çok 4000) — 2125 karakter
+Gazetenin bulmaca keyfi, dijitalin rahatlığı.
+
+Bulmaca Gazetesi, eski bir gazetenin bulmaca ekini okuyormuş gibi hissettiren, tamamen Türkçe bir bulmaca uygulamasıdır. Her sayfada iki bulmaca vardır; sayfayı köşesinden tutup gerçekten çevirirsiniz.
+
+400 BULMACA, 4 TÜR
+• Çengel: ipuçları ızgaranın içindeki soru hücrelerinde, oklar cevabın yönünü gösterir.
+• Kare: numaralı hücreler, siyah bloklar, “Soldan sağa” ve “Yukarıdan aşağıya” soru listeleri.
+• Klasik: kare bulmacayla aynı kurallarla ama daha büyük, daha yoğun, daha uzun cevaplı ve kategorili gazete bulmacası.
+• Sudoku: 9×9, kolay, orta ve zor seviyeler; her bulmaca tek çözümlüdür.
+Her türde 100 bulmaca vardır; kolay, orta ve zor seviyelerde.
+
+GAZETE HİSSİ
+• Her gün yeni bir gazete sayısı ve sayfaları.
+• Köşeden kıvrılan, gerçek bir kâğıt çevirme efekti.
+• Sıcak kâğıt tonları, gazete yazı tipleri ve ince çizgilerle sade bir tasarım.
+• İsteğe bağlı kalem ve sayfa sesleri (ayarlardan kapatabilirsiniz).
+
+KOLAY VE RAHAT OYNANIŞ
+• Türkçe karakterlerin tamamını (Ç, Ğ, İ, I, Ö, Ş, Ü) kapsayan klavye.
+• Yazarken anında geri bildirim: yanlış harf kırmızı ve altı çizili olur, doğru tamamlanan kelime yeşile döner. İsterseniz ayarlardan kapatıp yalnızca “Kontrol” düğmesini kullanabilirsiniz.
+• Seçili harf veya cevap için ipucu; Sudoku'da hücre ipucu ve açıklama.
+• Kalem notları, geri alma ve yineleme.
+• İlerlemeniz otomatik kaydedilir; uygulamayı kapatıp açtığınızda kaldığınız yerden devam edersiniz.
+• Sıfırlayarak aynı bulmacayı baştan çözebilir, “Yeni bulmaca” ile yalnızca o yuvayı değiştirebilirsiniz.
+• Arşiv, istatistikler ve çözüm sürelerinizi sade bir biçimde görün.
+
+HERKES İÇİN
+• Hesap veya üyelik gerekmez.
+• Bulmacalar internet olmadan da oynanır.
+• Büyük yazı boyutu, sesli okuyucu desteği ve gece baskısı teması.
+• iPhone ve iPad için tasarlanmıştır; tablette iki bulmaca yan yana görünür.
+
+REKLAMLAR
+Uygulama ücretsizdir ve reklam içerir. İpucu almak için kısa bir reklam izlenir. Reklamlar internet bağlantısı gerektirir; bağlantı yoksa oyun yine de oynanabilir.
+
+Bulmaca Gazetesi ile her gün birkaç dakikanızı zihninizi çalıştırmaya ayırın.
+
+== Keywords (en çok 100, virgülle, boşluksuz) — 95 karakter
+çengel,sudoku,kare,klasik,kelime,zeka,oyun,bilmece,crossword,türkçe,bulmacalar,sözcük,ipucu,eki
+
+== Support URL (zorunlu)
+(Sizin web adresiniz — zorunlu. Örn: https://siteniz.com/bulmaca-gazetesi/destek)
+
+== Marketing URL (isteğe bağlı)
+(İsteğe bağlı — boş bırakabilirsiniz. Örn: https://siteniz.com/bulmaca-gazetesi)
+
+== Copyright
+2026 [Ad Soyad veya Şirket Adı]
+
+== Notes (App Review Information → Notes; Apple incelemecisine)
+Merhaba, inceleme için bilgiler:
+
+• Giriş/hesap yoktur; demo hesabı gerekmez. Uygulamayı açınca doğrudan gazete sayfası görünür.
+• Bulmacalar internet olmadan da oynanır. Reklamlar internet gerektirir.
+• Reklamlar (Google AdMob): ekranın altında banner vardır. “İpucu” düğmesine (harf, kelime veya Sudoku hücresi) basıldığında önce “Reklamı izle” onayı çıkar; kullanıcı kabul ederse ödüllü reklam gösterilir ve reklam bitince ipucu verilir. Reklam yüklenemezse ipucu yine verilir.
+• Avrupa Birliği/Birleşik Krallık kullanıcıları için Google'ın onay formu (UMP) gösterilir; ayarlardan “Reklam gizlilik seçenekleri” ile yeniden açılabilir.
+• Uygulama izleme izni (ATT) istemez; reklamlar kişiselleştirilmemiş gösterilir.
+• Denemek için: sayfadaki bir bulmacaya dokunun (odak modu açılır) → bir hücre seçin → ekran klavyesinden harf yazın → alttaki “İpucu” düğmesini deneyin.
+• Sayfa çevirme: sayfanın sağ/sol kenarından sürükleyin veya alttaki ok düğmelerini kullanın.
+• iPad'de en iyi deneyim için yatay konumu deneyebilirsiniz.
+
+Teşekkürler.

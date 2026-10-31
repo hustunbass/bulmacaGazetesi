@@ -1,0 +1,748 @@
+[
+ {
+  "schema": 1,
+  "id": "kare-kolay-01",
+  "version": 1,
+  "type": "kare",
+  "difficulty": "kolay",
+  "title": "Kare bulmaca I",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 10,
+  "cols": 10,
+  "grid": [
+   "AKŞAM###G#",
+   "##A###TREN",
+   "İSPANYA#M#",
+   "N#K#A#ŞAİR",
+   "E#A#R##N##",
+   "K######T#S",
+   "#PİDE#LALE",
+   "####R##L#R",
+   "DERGİ##Y#G",
+   "####KITA#İ"
+  ],
+  "entries": [
+   {
+    "id": "A1",
+    "n": 1,
+    "dir": "A",
+    "r": 0,
+    "c": 0,
+    "answer": "AKŞAM",
+    "clue": "Güneşin battığı vakit",
+    "cat": "Genel"
+   },
+   {
+    "id": "D2",
+    "n": 2,
+    "dir": "D",
+    "r": 0,
+    "c": 2,
+    "answer": "ŞAPKA",
+    "clue": "Başa giyilen giysi",
+    "cat": "Genel"
+   },
+   {
+    "id": "D3",
+    "n": 3,
+    "dir": "D",
+    "r": 0,
+    "c": 8,
+    "answer": "GEMİ",
+    "clue": "Denizde yolcu ve yük taşıyan büyük araç",
+    "cat": "Genel"
+   },
+   {
+    "id": "D4",
+    "n": 4,
+    "dir": "D",
+    "r": 1,
+    "c": 6,
+    "answer": "TAŞ",
+    "clue": "Sert ve katı kaya parçası",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A4",
+    "n": 4,
+    "dir": "A",
+    "r": 1,
+    "c": 6,
+    "answer": "TREN",
+    "clue": "Raylar üzerinde giden araç",
+    "cat": "Genel"
+   },
+   {
+    "id": "A5",
+    "n": 5,
+    "dir": "A",
+    "r": 2,
+    "c": 0,
+    "answer": "İSPANYA",
+    "clue": "Boğa güreşleriyle anılan Avrupa ülkesi",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D5",
+    "n": 5,
+    "dir": "D",
+    "r": 2,
+    "c": 0,
+    "answer": "İNEK",
+    "clue": "Süt veren büyük evcil hayvan",
+    "cat": "Doğa"
+   },
+   {
+    "id": "D6",
+    "n": 6,
+    "dir": "D",
+    "r": 2,
+    "c": 4,
+    "answer": "NAR",
+    "clue": "Taneleri yakut gibi parlayan meyve",
+    "cat": "Yemek"
+   },
+   {
+    "id": "A7",
+    "n": 7,
+    "dir": "A",
+    "r": 3,
+    "c": 6,
+    "answer": "ŞAİR",
+    "clue": "Şiir yazan kişi",
+    "cat": "Sanat"
+   },
+   {
+    "id": "D8",
+    "n": 8,
+    "dir": "D",
+    "r": 3,
+    "c": 7,
+    "answer": "ANTALYA",
+    "clue": "Turizmiyle bilinen Akdeniz ili",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D9",
+    "n": 9,
+    "dir": "D",
+    "r": 5,
+    "c": 9,
+    "answer": "SERGİ",
+    "clue": "Eserlerin halka gösterildiği düzenleme",
+    "cat": "Sanat"
+   },
+   {
+    "id": "A10",
+    "n": 10,
+    "dir": "A",
+    "r": 6,
+    "c": 1,
+    "answer": "PİDE",
+    "clue": "Kayık biçimli, fırında pişen hamur işi",
+    "cat": "Yemek"
+   },
+   {
+    "id": "D11",
+    "n": 11,
+    "dir": "D",
+    "r": 6,
+    "c": 4,
+    "answer": "ERİK",
+    "clue": "Mor ya da yeşil, çekirdekli küçük meyve",
+    "cat": "Yemek"
+   },
+   {
+    "id": "A12",
+    "n": 12,
+    "dir": "A",
+    "r": 6,
+    "c": 6,
+    "answer": "LALE",
+    "clue": "İstanbul’un simgesi sayılan soğanlı çiçek",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A13",
+    "n": 13,
+    "dir": "A",
+    "r": 8,
+    "c": 0,
+    "answer": "DERGİ",
+    "clue": "Belirli aralıklarla çıkan resimli yayın",
+    "cat": "Genel"
+   },
+   {
+    "id": "A14",
+    "n": 14,
+    "dir": "A",
+    "r": 9,
+    "c": 4,
+    "answer": "KITA",
+    "clue": "Dünyanın büyük kara parçalarından her biri",
+    "cat": "Coğrafya"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "kare-kolay-02",
+  "version": 1,
+  "type": "kare",
+  "difficulty": "kolay",
+  "title": "Kare bulmaca II",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 10,
+  "cols": 11,
+  "grid": [
+   "#K#SANATÇI#",
+   "DİZ###D####",
+   "#T#A#GAZİ#A",
+   "SAAT####Z#H",
+   "#P#İ##Y#M#T",
+   "###N#BALİNA",
+   "DUVAR#Ğ#R#P",
+   "#M##Ü#M###O",
+   "#U##Y#U#SÜT",
+   "#TİYATRO###"
+  ],
+  "entries": [
+   {
+    "id": "D1",
+    "n": 1,
+    "dir": "D",
+    "r": 0,
+    "c": 1,
+    "answer": "KİTAP",
+    "clue": "Sayfaları ciltlenmiş okuma yapıtı",
+    "cat": "Genel"
+   },
+   {
+    "id": "A2",
+    "n": 2,
+    "dir": "A",
+    "r": 0,
+    "c": 3,
+    "answer": "SANATÇI",
+    "clue": "Sanat eseri üreten kişi",
+    "cat": "Sanat"
+   },
+   {
+    "id": "D3",
+    "n": 3,
+    "dir": "D",
+    "r": 0,
+    "c": 6,
+    "answer": "ADA",
+    "clue": "Dört yanı sularla çevrili kara parçası",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A4",
+    "n": 4,
+    "dir": "A",
+    "r": 1,
+    "c": 0,
+    "answer": "DİZ",
+    "clue": "Bacağın ortasındaki eklem",
+    "cat": "Bilim"
+   },
+   {
+    "id": "D5",
+    "n": 5,
+    "dir": "D",
+    "r": 2,
+    "c": 3,
+    "answer": "ATİNA",
+    "clue": "Yunanistan’ın başkenti",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "A6",
+    "n": 6,
+    "dir": "A",
+    "r": 2,
+    "c": 5,
+    "answer": "GAZİ",
+    "clue": "Savaştan sağ dönene verilen unvan",
+    "cat": "Tarih"
+   },
+   {
+    "id": "D7",
+    "n": 7,
+    "dir": "D",
+    "r": 2,
+    "c": 8,
+    "answer": "İZMİR",
+    "clue": "Saat Kulesi ve Kordon’uyla tanınan Ege kenti",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D8",
+    "n": 8,
+    "dir": "D",
+    "r": 2,
+    "c": 10,
+    "answer": "AHTAPOT",
+    "clue": "Sekiz kollu deniz canlısı",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A9",
+    "n": 9,
+    "dir": "A",
+    "r": 3,
+    "c": 0,
+    "answer": "SAAT",
+    "clue": "Zamanı gösteren araç",
+    "cat": "Genel"
+   },
+   {
+    "id": "D10",
+    "n": 10,
+    "dir": "D",
+    "r": 4,
+    "c": 6,
+    "answer": "YAĞMUR",
+    "clue": "Bulutlardan damla damla düşen su",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A11",
+    "n": 11,
+    "dir": "A",
+    "r": 5,
+    "c": 5,
+    "answer": "BALİNA",
+    "clue": "Denizlerin en büyük memelisi",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A12",
+    "n": 12,
+    "dir": "A",
+    "r": 6,
+    "c": 0,
+    "answer": "DUVAR",
+    "clue": "Odaları ayıran dik yapı",
+    "cat": "Genel"
+   },
+   {
+    "id": "D13",
+    "n": 13,
+    "dir": "D",
+    "r": 6,
+    "c": 1,
+    "answer": "UMUT",
+    "clue": "İyi bir şeyin olacağına duyulan inanç",
+    "cat": "Genel"
+   },
+   {
+    "id": "D14",
+    "n": 14,
+    "dir": "D",
+    "r": 6,
+    "c": 4,
+    "answer": "RÜYA",
+    "clue": "Uykuda görülen görüntüler",
+    "cat": "Genel"
+   },
+   {
+    "id": "A15",
+    "n": 15,
+    "dir": "A",
+    "r": 8,
+    "c": 8,
+    "answer": "SÜT",
+    "clue": "İneğin verdiği beyaz içecek",
+    "cat": "Yemek"
+   },
+   {
+    "id": "A16",
+    "n": 16,
+    "dir": "A",
+    "r": 9,
+    "c": 1,
+    "answer": "TİYATRO",
+    "clue": "Oyuncuların sahnede canlandırdığı eser",
+    "cat": "Sanat"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "kare-orta-03",
+  "version": 1,
+  "type": "kare",
+  "difficulty": "orta",
+  "title": "Kare bulmaca III",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+   "ÖZLEM###M#M",
+   "Z######ÇATI",
+   "NEY#####L#S",
+   "E#O##MASA#I",
+   "##Ğ##I##Z#R",
+   "T#UÇAK##G##",
+   "I#R##N#FİİL",
+   "M#TABAK#R##",
+   "S####T#ATOM",
+   "A####I####A",
+   "HİNDİSTAN#Ç"
+  ],
+  "entries": [
+   {
+    "id": "D1",
+    "n": 1,
+    "dir": "D",
+    "r": 0,
+    "c": 0,
+    "answer": "ÖZNE",
+    "clue": "Cümlede işi yapan öge",
+    "cat": "Dil"
+   },
+   {
+    "id": "A1",
+    "n": 1,
+    "dir": "A",
+    "r": 0,
+    "c": 0,
+    "answer": "ÖZLEM",
+    "clue": "Uzaktakini görmek istemenin verdiği duygu",
+    "cat": "Genel"
+   },
+   {
+    "id": "D2",
+    "n": 2,
+    "dir": "D",
+    "r": 0,
+    "c": 8,
+    "answer": "MALAZGİRT",
+    "clue": "1071’de kazanılan savaşın yapıldığı yer",
+    "cat": "Tarih"
+   },
+   {
+    "id": "D3",
+    "n": 3,
+    "dir": "D",
+    "r": 0,
+    "c": 10,
+    "answer": "MISIR",
+    "clue": "Piramitlerin ülkesi",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "A4",
+    "n": 4,
+    "dir": "A",
+    "r": 1,
+    "c": 7,
+    "answer": "ÇATI",
+    "clue": "Evin üstünü örten yapı",
+    "cat": "Genel"
+   },
+   {
+    "id": "A5",
+    "n": 5,
+    "dir": "A",
+    "r": 2,
+    "c": 0,
+    "answer": "NEY",
+    "clue": "Kamıştan yapılan üflemeli çalgı",
+    "cat": "Sanat"
+   },
+   {
+    "id": "D6",
+    "n": 6,
+    "dir": "D",
+    "r": 2,
+    "c": 2,
+    "answer": "YOĞURT",
+    "clue": "Sütün mayalanmasıyla elde edilen besin",
+    "cat": "Yemek"
+   },
+   {
+    "id": "D7",
+    "n": 7,
+    "dir": "D",
+    "r": 3,
+    "c": 5,
+    "answer": "MIKNATIS",
+    "clue": "Demiri kendine çeken cisim",
+    "cat": "Bilim"
+   },
+   {
+    "id": "A7",
+    "n": 7,
+    "dir": "A",
+    "r": 3,
+    "c": 5,
+    "answer": "MASA",
+    "clue": "Üzerinde yemek yenen veya çalışılan mobilya",
+    "cat": "Genel"
+   },
+   {
+    "id": "D8",
+    "n": 8,
+    "dir": "D",
+    "r": 5,
+    "c": 0,
+    "answer": "TIMSAH",
+    "clue": "Nehirlerde yaşayan iri sürüngen",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A9",
+    "n": 9,
+    "dir": "A",
+    "r": 5,
+    "c": 2,
+    "answer": "UÇAK",
+    "clue": "Havada giden taşıt",
+    "cat": "Genel"
+   },
+   {
+    "id": "A10",
+    "n": 10,
+    "dir": "A",
+    "r": 6,
+    "c": 7,
+    "answer": "FİİL",
+    "clue": "İş, oluş ya da durum bildiren sözcük",
+    "cat": "Dil"
+   },
+   {
+    "id": "A11",
+    "n": 11,
+    "dir": "A",
+    "r": 7,
+    "c": 2,
+    "answer": "TABAK",
+    "clue": "Yemek konulan yayvan kap",
+    "cat": "Genel"
+   },
+   {
+    "id": "A12",
+    "n": 12,
+    "dir": "A",
+    "r": 8,
+    "c": 7,
+    "answer": "ATOM",
+    "clue": "Maddenin yapı taşı olan küçük parçacık",
+    "cat": "Bilim"
+   },
+   {
+    "id": "D13",
+    "n": 13,
+    "dir": "D",
+    "r": 8,
+    "c": 10,
+    "answer": "MAÇ",
+    "clue": "İki takım arasındaki karşılaşma",
+    "cat": "Spor"
+   },
+   {
+    "id": "A14",
+    "n": 14,
+    "dir": "A",
+    "r": 10,
+    "c": 0,
+    "answer": "HİNDİSTAN",
+    "clue": "Tac Mahal’in ülkesi",
+    "cat": "Coğrafya"
+   }
+  ]
+ },
+ {
+  "schema": 1,
+  "id": "kare-zor-04",
+  "version": 1,
+  "type": "kare",
+  "difficulty": "zor",
+  "title": "Kare bulmaca IV",
+  "source": "Özgün içerik — Bulmaca Gazetesi geliştirici bankası",
+  "license": "Proje içi özgün içerik (telif devri yok, üçüncü taraf içeriği yok)",
+  "rows": 11,
+  "cols": 11,
+  "grid": [
+   "ÖYKÜ#C#####",
+   "##Ö##Ü#KARS",
+   "TAKVİM####İ",
+   "I####L##Y#V",
+   "R###MEVLANA",
+   "N#D###A#R#S",
+   "A#Ü###N#I##",
+   "KÜRE#E##M##",
+   "##B##LOZAN#",
+   "##Ü##M##D##",
+   "KANADA#BALE"
+  ],
+  "entries": [
+   {
+    "id": "A1",
+    "n": 1,
+    "dir": "A",
+    "r": 0,
+    "c": 0,
+    "answer": "ÖYKÜ",
+    "clue": "Kısa kurgusal anlatı",
+    "cat": "Sanat"
+   },
+   {
+    "id": "D2",
+    "n": 2,
+    "dir": "D",
+    "r": 0,
+    "c": 2,
+    "answer": "KÖK",
+    "clue": "Sözcüğün anlamlı en küçük parçası",
+    "cat": "Dil"
+   },
+   {
+    "id": "D3",
+    "n": 3,
+    "dir": "D",
+    "r": 0,
+    "c": 5,
+    "answer": "CÜMLE",
+    "clue": "Bir yargı bildiren sözcük dizisi",
+    "cat": "Dil"
+   },
+   {
+    "id": "A4",
+    "n": 4,
+    "dir": "A",
+    "r": 1,
+    "c": 7,
+    "answer": "KARS",
+    "clue": "Ani Harabeleri’nin bulunduğu doğu ili",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D5",
+    "n": 5,
+    "dir": "D",
+    "r": 1,
+    "c": 10,
+    "answer": "SİVAS",
+    "clue": "Kızılırmak’ın doğduğu İç Anadolu ili",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D6",
+    "n": 6,
+    "dir": "D",
+    "r": 2,
+    "c": 0,
+    "answer": "TIRNAK",
+    "clue": "Parmak uçlarındaki sert tabaka",
+    "cat": "Bilim"
+   },
+   {
+    "id": "A6",
+    "n": 6,
+    "dir": "A",
+    "r": 2,
+    "c": 0,
+    "answer": "TAKVİM",
+    "clue": "Günleri ve ayları gösteren çizelge",
+    "cat": "Genel"
+   },
+   {
+    "id": "D7",
+    "n": 7,
+    "dir": "D",
+    "r": 3,
+    "c": 8,
+    "answer": "YARIMADA",
+    "clue": "Üç yanı sularla çevrili kara parçası",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "A8",
+    "n": 8,
+    "dir": "A",
+    "r": 4,
+    "c": 4,
+    "answer": "MEVLANA",
+    "clue": "Mesnevi’nin şair ve düşünür yazarı",
+    "cat": "Sanat"
+   },
+   {
+    "id": "D9",
+    "n": 9,
+    "dir": "D",
+    "r": 4,
+    "c": 6,
+    "answer": "VAN",
+    "clue": "Gölü ve kedisiyle ünlü doğu ili",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D10",
+    "n": 10,
+    "dir": "D",
+    "r": 5,
+    "c": 2,
+    "answer": "DÜRBÜN",
+    "clue": "Uzağı yakın gösteren çift gözlü araç",
+    "cat": "Genel"
+   },
+   {
+    "id": "A11",
+    "n": 11,
+    "dir": "A",
+    "r": 7,
+    "c": 0,
+    "answer": "KÜRE",
+    "clue": "Dünyanın maketi olan yuvarlak model",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D12",
+    "n": 12,
+    "dir": "D",
+    "r": 7,
+    "c": 5,
+    "answer": "ELMA",
+    "clue": "Adem ile Havva’ya atfedilen yuvarlak meyve",
+    "cat": "Yemek"
+   },
+   {
+    "id": "A13",
+    "n": 13,
+    "dir": "A",
+    "r": 8,
+    "c": 5,
+    "answer": "LOZAN",
+    "clue": "1923’te barış antlaşmasının imzalandığı İsviçre kenti",
+    "cat": "Tarih"
+   },
+   {
+    "id": "A14",
+    "n": 14,
+    "dir": "A",
+    "r": 10,
+    "c": 0,
+    "answer": "KANADA",
+    "clue": "Bayrağında akçaağaç yaprağı olan ülke",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "A15",
+    "n": 15,
+    "dir": "A",
+    "r": 10,
+    "c": 7,
+    "answer": "BALE",
+    "clue": "Danslarla anlatılan sahne sanatı",
+    "cat": "Sanat"
+   }
+  ]
+ }
+]
