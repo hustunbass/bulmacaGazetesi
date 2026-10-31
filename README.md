@@ -147,3 +147,4 @@ bankadaki özgün ipuçlarını kullanır. Sudoku ise cihazda doğrulanarak üre
   Kendi gerçek reklamınıza tıklamak AdMob hesabını askıya aldırabilir.
 - **Doğrulanamayan:** bu makinedeki yerel proxy simülatörün TLS trafiğini bozduğu için canlı reklam (banner/ödüllü) görüntülenemedi;
   yalnızca derleme, SDK bağlama ve iş akışı mantığı (sahte reklamla) test edildi. Gerçek cihazda doğrulayın.
+# bulmacaGazetesi
