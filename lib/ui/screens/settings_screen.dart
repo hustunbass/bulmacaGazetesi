@@ -121,7 +121,8 @@ class SettingsScreen extends ConsumerWidget {
                 'Hataları vurgula',
                 s.highlightErrors,
                 (v) => set(s.copyWith(highlightErrors: v)),
-                sub: 'Yanlış harfler renk ve işaretle gösterilir.',
+                sub:
+                    'Kontrol sonrası yanlış harf ve rakamlar renk ve işaretle gösterilir.',
               ),
               _Toggle(
                 'Süreyi göster',

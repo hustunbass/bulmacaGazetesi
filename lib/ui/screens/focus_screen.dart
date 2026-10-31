@@ -274,6 +274,7 @@ class _FocusScreenState extends ConsumerState<FocusScreen> {
             child: SudokuGridView(
               session: s,
               showConflicts: c.settings.sudokuShowConflicts,
+              showWrong: c.settings.highlightErrors,
               onCellTap: (i) => _selectCell(s, i),
             ),
           );

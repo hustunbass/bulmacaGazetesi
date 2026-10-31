@@ -2,7 +2,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-005",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca V",
@@ -20,7 +20,7 @@
    "E##İ#R#T#SARMA#",
    "R###HALAT###E#H",
    "#####D#M####S#A",
-   "#CİVA##S##SİNAN",
+   "#DİSK##S##SİNAN",
    "##Z##F#A#A##E#O",
    "#ANİMASYON##V#İ",
    "##İ##R#I#LADİN#",
@@ -204,9 +204,9 @@
     "dir": "A",
     "r": 9,
     "c": 1,
-    "answer": "CİVA",
-    "clue": "Oda sıcaklığında sıvı olan tek metal",
-    "cat": "Doğa"
+    "answer": "DİSK",
+    "clue": "Atletlerin döne döne fırlattığı yassı ağırlık",
+    "cat": "Spor"
    },
    {
     "id": "D18",
@@ -807,7 +807,7 @@
     "r": 8,
     "c": 1,
     "answer": "YUMURTA",
-    "clue": "Tavukların yumurtladığı besin",
+    "clue": "Tavuğun folluğa bıraktığı kabuklu besin",
     "cat": "Yemek"
    },
    {
@@ -925,7 +925,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-008",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca VIII",
@@ -948,7 +948,7 @@
    "#T#K#KOYOT###E#",
    "#USUL#F#İ#TİMUR",
    "#N####Ç######L#",
-   "#A#ISLAMABAD###"
+   "#A#İSLAMABAD###"
   ],
   "entries": [
    {
@@ -1118,7 +1118,7 @@
     "r": 8,
     "c": 0,
     "answer": "DİSK",
-    "clue": "Atletlerin döne döne fırlattığı yassı halka",
+    "clue": "Atletlerin döne döne fırlattığı yassı ağırlık",
     "cat": "Spor"
    },
    {
@@ -1217,7 +1217,7 @@
     "dir": "A",
     "r": 14,
     "c": 3,
-    "answer": "ISLAMABAD",
+    "answer": "İSLAMABAD",
     "clue": "Pakistan’ın başkenti",
     "cat": "Coğrafya"
    }
@@ -1308,7 +1308,7 @@
     "r": 1,
     "c": 12,
     "answer": "DİSK",
-    "clue": "Atletlerin döne döne fırlattığı yassı halka",
+    "clue": "Atletlerin döne döne fırlattığı yassı ağırlık",
     "cat": "Spor"
    },
    {
@@ -1358,7 +1358,7 @@
     "r": 4,
     "c": 7,
     "answer": "MIZRAK",
-    "clue": "Atletlerin fırlattığı uzun sivri araç",
+    "clue": "Eski savaşçıların uzun saplı, sivri uçlu silahı",
     "cat": "Spor"
    },
    {
@@ -1880,7 +1880,7 @@
     "r": 0,
     "c": 13,
     "answer": "KEMANCI",
-    "clue": "Yaylı çalgıyı çalan sanatçı",
+    "clue": "Paganini’nin mesleği: dört telli yaylı çalgının icracısı",
     "cat": "Sanat"
    },
    {
@@ -2750,7 +2750,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-014",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XIV",
@@ -2767,13 +2767,13 @@
    "K###L#KENE#K#M#",
    "A#E#U##K#KLAKET",
    "NEDİM####İ#L##O",
-   "##I##T###D#İ##S",
+   "##İ##T###D#İ##S",
    "T#SEDİR##N#G##T",
    "A#O##M#AMASRA##",
-   "KANADA#R###A#C#",
+   "KANADA#R###A#D#",
    "V####R#Ş###FAİZ",
-   "İ######EMEVİ#V#",
-   "MEDDAH#######A#"
+   "İ######EMEVİ#Z#",
+   "MEDDAH#######E#"
   ],
   "entries": [
    {
@@ -2853,7 +2853,7 @@
     "r": 3,
     "c": 4,
     "answer": "TULUM",
-    "clue": "Deri tulumda olgunlaşan, kuvvetli kokulu peynir",
+    "clue": "Keçi derisinde olgunlaşan, kuvvetli kokulu peynir",
     "cat": "Yemek"
    },
    {
@@ -2892,7 +2892,7 @@
     "dir": "D",
     "r": 6,
     "c": 2,
-    "answer": "EDISON",
+    "answer": "EDİSON",
     "clue": "Ampulü geliştiren ABD’li mucit",
     "cat": "Bilim"
    },
@@ -2992,9 +2992,9 @@
     "dir": "D",
     "r": 11,
     "c": 13,
-    "answer": "CİVA",
-    "clue": "Oda sıcaklığında sıvı olan tek metal",
-    "cat": "Doğa"
+    "answer": "DİZE",
+    "clue": "Şiirde bir satır",
+    "cat": "Sanat"
    },
    {
     "id": "A19",
@@ -3144,7 +3144,7 @@
     "r": 2,
     "c": 6,
     "answer": "HARDAL",
-    "clue": "Sarı renkli, keskin tatlı sos",
+    "clue": "Sarı renkli, keskin tadı olan sos",
     "cat": "Yemek"
    },
    {
@@ -3395,7 +3395,7 @@
     "r": 1,
     "c": 1,
     "answer": "ALPLER",
-    "clue": "Avrupa’nın en yüksek dağ silsilesi",
+    "clue": "Mont Blanc’ın yer aldığı Avrupa sıradağları",
     "cat": "Coğrafya"
    },
    {
@@ -3593,7 +3593,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-017",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca XVII",
@@ -3612,7 +3612,7 @@
    "E#K#SANATÇI#M#O",
    "SMAÇ#T#N##N#A#K",
    "##L####I##A#N##",
-   "I#A#N###YARIÇAP",
+   "İ#A#N###YARIÇAP",
    "SÖYLEŞİ##S##E#E",
    "O###S#VİYANA##L",
    "T###N#M##L####İ",
@@ -3795,7 +3795,7 @@
     "dir": "D",
     "r": 10,
     "c": 0,
-    "answer": "ISOT",
+    "answer": "İSOT",
     "clue": "Urfa’nın koyu mor acı biberi",
     "cat": "Yemek"
    },
@@ -4127,7 +4127,7 @@
     "r": 9,
     "c": 1,
     "answer": "DAMAT",
-    "clue": "Evlenen erkek veya kızın eşi",
+    "clue": "Gelinin eşi olan erkek; güvey",
     "cat": "Genel"
    },
    {
@@ -4849,7 +4849,7 @@
     "r": 0,
     "c": 11,
     "answer": "PAZI",
-    "clue": "Yeşil yapraklı, kökü kırmızı saplı ot",
+    "clue": "Sarması ve kavurması yapılan geniş yapraklı sebze",
     "cat": "Doğa"
    },
    {
@@ -4879,7 +4879,7 @@
     "r": 3,
     "c": 1,
     "answer": "BULGUR",
-    "clue": "Haşlanıp kurutulmuş buğdaydan yapılan pilav türü",
+    "clue": "Haşlanıp kurutulup kırılmış buğday",
     "cat": "Yemek"
    },
    {
@@ -5039,7 +5039,7 @@
     "r": 11,
     "c": 8,
     "answer": "GAZAL",
-    "clue": "Şiirlerde güzel gözleriyle anılan çevik antilop",
+    "clue": "Ceylanın eski dildeki adı",
     "cat": "Doğa"
    },
    {
@@ -5551,7 +5551,7 @@
     "r": 9,
     "c": 7,
     "answer": "ANADİL",
-    "clue": "İnsanın ilk öğrendiği dil",
+    "clue": "Akraba dillerin türediği kaynak dil",
     "cat": "Dil"
    },
    {
@@ -5591,7 +5591,7 @@
     "r": 12,
     "c": 5,
     "answer": "KANUN",
-    "clue": "Tezeneyle çalınan yatay telli çalgı",
+    "clue": "Kucakta yatay tutulup mızrapla çalınan telli çalgı",
     "cat": "Sanat"
    },
    {
@@ -5950,7 +5950,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-025",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XXV",
@@ -5970,9 +5970,9 @@
    "####DESTAN###E#",
    "#H##İ##E#A#Ş#R#",
    "HAVANA#####A##A",
-   "#R#S#Ğ#G#BELLEK",
-   "#D#İ#ISOT##G##R",
-   "#A#T#Z#B###A##E",
+   "#R#S#F#G#BELLEK",
+   "#D#İ#İSOT##G##R",
+   "#A#T#Ş#B###A##E",
    "#L####ÇİĞDEM##P"
   ],
   "entries": [
@@ -6163,7 +6163,7 @@
     "r": 9,
     "c": 1,
     "answer": "HARDAL",
-    "clue": "Sarı renkli, keskin tatlı sos",
+    "clue": "Sarı renkli, keskin tadı olan sos",
     "cat": "Yemek"
    },
    {
@@ -6202,9 +6202,9 @@
     "dir": "D",
     "r": 10,
     "c": 5,
-    "answer": "AĞIZ",
-    "clue": "Yemek yemeye ve konuşmaya yarayan açıklık",
-    "cat": "Bilim"
+    "answer": "AFİŞ",
+    "clue": "Film ya da oyunu duyuran büyük kâğıt",
+    "cat": "Sanat"
    },
    {
     "id": "D22",
@@ -6242,7 +6242,7 @@
     "dir": "A",
     "r": 12,
     "c": 5,
-    "answer": "ISOT",
+    "answer": "İSOT",
     "clue": "Urfa’nın koyu mor acı biberi",
     "cat": "Yemek"
    },
@@ -6434,7 +6434,7 @@
     "r": 6,
     "c": 4,
     "answer": "AMELİYAT",
-    "clue": "Cerrahın hastaya yaptığı kesili müdahale",
+    "clue": "Cerrahın hastaya yaptığı kesi gerektiren müdahale",
     "cat": "Bilim"
    },
    {
@@ -6635,7 +6635,7 @@
     "r": 0,
     "c": 11,
     "answer": "ANADİL",
-    "clue": "İnsanın ilk öğrendiği dil",
+    "clue": "Akraba dillerin türediği kaynak dil",
     "cat": "Dil"
    },
    {
@@ -6785,7 +6785,7 @@
     "r": 10,
     "c": 3,
     "answer": "KANUN",
-    "clue": "Tezeneyle çalınan yatay telli çalgı",
+    "clue": "Kucakta yatay tutulup mızrapla çalınan telli çalgı",
     "cat": "Sanat"
    },
    {
@@ -6956,7 +6956,7 @@
     "r": 4,
     "c": 4,
     "answer": "BULGUR",
-    "clue": "Haşlanıp kurutulmuş buğdaydan yapılan pilav türü",
+    "clue": "Haşlanıp kurutulup kırılmış buğday",
     "cat": "Yemek"
    },
    {
@@ -7046,7 +7046,7 @@
     "r": 9,
     "c": 14,
     "answer": "MIZRAK",
-    "clue": "Atletlerin fırlattığı uzun sivri araç",
+    "clue": "Eski savaşçıların uzun saplı, sivri uçlu silahı",
     "cat": "Spor"
    },
    {
@@ -7114,7 +7114,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-029",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca XXIX",
@@ -7127,10 +7127,10 @@
    "######N#R#Ç#S#Ö",
    "#İPEKBÖCEĞİ#T#T",
    "#Ş##A#N#S#N#A#R",
-   "#L##N#Ü#K#KONGO",
-   "#E##B##S##O#A#N",
-   "#MENEKŞE#D#G###",
-   "#C##R##Y#E#Ö###",
+   "#L##R#Ü#K#KONGO",
+   "#E##T##S##O#A#N",
+   "#MAHALLE#D#G###",
+   "#C##C##Y#E#Ö###",
    "LİDYA##H#YAKAR#",
    "##O####A#İ#K##M",
    "##S####NEMRUT#E",
@@ -7226,9 +7226,9 @@
     "dir": "D",
     "r": 2,
     "c": 4,
-    "answer": "KANBERA",
-    "clue": "Sidney değil, Avustralya’nın gerçek başkenti",
-    "cat": "Coğrafya"
+    "answer": "KARTACA",
+    "clue": "Hannibal’in memleketi, Tunus’taki antik şehir devleti",
+    "cat": "Tarih"
    },
    {
     "id": "A9",
@@ -7256,9 +7256,9 @@
     "dir": "A",
     "r": 6,
     "c": 1,
-    "answer": "MENEKŞE",
-    "clue": "Mor renkli, kokulu küçük ilkbahar çiçeği",
-    "cat": "Doğa"
+    "answer": "MAHALLE",
+    "clue": "Bir şehrin komşu evlerden oluşan bölümü",
+    "cat": "Genel"
    },
    {
     "id": "D12",
@@ -7428,7 +7428,7 @@
     "r": 0,
     "c": 6,
     "answer": "GAZAL",
-    "clue": "Şiirlerde güzel gözleriyle anılan çevik antilop",
+    "clue": "Ceylanın eski dildeki adı",
     "cat": "Doğa"
    },
    {
@@ -7947,7 +7947,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-032",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XXXII",
@@ -7956,21 +7956,21 @@
   "rows": 15,
   "cols": 15,
   "grid": [
-   "HÜSNÜHAT#######",
-   "E##############",
-   "C#B#####KEKLİK#",
-   "ENERJİ#K###A###",
-   "##R###HANNİBAL#",
-   "KOLOMB#R###N##U",
-   "##İ###BALIKESİR",
-   "FENİKE#R#S####A",
-   "R###A##I#L#M##N",
-   "E#SERVER#A#A##Y",
-   "S#İ#A####M#T##U",
-   "K#V#C#İ#RAGBİ#M",
-   "#PAPATYA#B#A###",
-   "##S###O#DARALMA",
-   "###UTANÇ#D#####"
+   "ALGORİTMA######",
+   "L#########KALP#",
+   "BARIŞ###S###İ#Y",
+   "A######ÇARŞAMBA",
+   "TRİBÜN##B###O#N",
+   "R##A##F#I###N#A",
+   "O##L#MİKROP#A#R",
+   "S##K##R###A#T#D",
+   "##DONMA##IZGARA",
+   "H##N##V###A###Ğ",
+   "A#İ###U#HOROZ##",
+   "F#YOSUN#E#T#Ü##",
+   "İ#O#####L#E#H##",
+   "FENİKE##V#S#R##",
+   "#######HALİFE##"
   ],
   "entries": [
    {
@@ -7979,9 +7979,9 @@
     "dir": "D",
     "r": 0,
     "c": 0,
-    "answer": "HECE",
-    "clue": "Tek solukta söylenen ses birimi",
-    "cat": "Dil"
+    "answer": "ALBATROS",
+    "clue": "Kanat açıklığı çok geniş, okyanus üstünde süzülen kuş",
+    "cat": "Doğa"
    },
    {
     "id": "A1",
@@ -7989,176 +7989,156 @@
     "dir": "A",
     "r": 0,
     "c": 0,
-    "answer": "HÜSNÜHAT",
-    "clue": "Güzel yazı sanatının eski adı",
-    "cat": "Sanat"
+    "answer": "ALGORİTMA",
+    "clue": "Bir sorunu çözmek için adım adım izlenen yol",
+    "cat": "Bilim"
    },
    {
-    "id": "D2",
+    "id": "A2",
     "n": 2,
-    "dir": "D",
-    "r": 2,
-    "c": 2,
-    "answer": "BERLİN",
-    "clue": "Almanya’nın başkenti",
-    "cat": "Coğrafya"
-   },
-   {
-    "id": "A3",
-    "n": 3,
     "dir": "A",
-    "r": 2,
-    "c": 8,
-    "answer": "KEKLİK",
-    "clue": "Dağlık yerlerde yaşayan, avlanan boz renkli kuş",
-    "cat": "Doğa"
+    "r": 1,
+    "c": 10,
+    "answer": "KALP",
+    "clue": "Kanı pompalayan organ",
+    "cat": "Bilim"
    },
    {
-    "id": "D4",
-    "n": 4,
+    "id": "D3",
+    "n": 3,
     "dir": "D",
-    "r": 2,
-    "c": 11,
-    "answer": "LABNE",
-    "clue": "Süzülmüş yoğurttan yapılan krem kıvamlı peynir",
+    "r": 1,
+    "c": 12,
+    "answer": "LİMONATA",
+    "clue": "Yaz sıcağında içilen şekerli, ekşi sarı narenciye içeceği",
     "cat": "Yemek"
    },
    {
-    "id": "A5",
-    "n": 5,
+    "id": "A4",
+    "n": 4,
     "dir": "A",
-    "r": 3,
+    "r": 2,
     "c": 0,
-    "answer": "ENERJİ",
-    "clue": "İş yapabilme yeteneği",
-    "cat": "Bilim"
+    "answer": "BARIŞ",
+    "clue": "Savaşın karşıtı olan huzur durumu",
+    "cat": "Genel"
+   },
+   {
+    "id": "D5",
+    "n": 5,
+    "dir": "D",
+    "r": 2,
+    "c": 8,
+    "answer": "SABIR",
+    "clue": "Telaşlanmadan bekleyebilme",
+    "cat": "Genel"
    },
    {
     "id": "D6",
     "n": 6,
     "dir": "D",
-    "r": 3,
-    "c": 7,
-    "answer": "KARARIR",
-    "clue": "Üzüm üzüme baka baka ... (atasözü sonu)",
-    "cat": "Dil"
+    "r": 2,
+    "c": 14,
+    "answer": "YANARDAĞ",
+    "clue": "Lav ve kül püsküren dağ",
+    "cat": "Doğa"
    },
    {
     "id": "A7",
     "n": 7,
     "dir": "A",
-    "r": 4,
-    "c": 6,
-    "answer": "HANNİBAL",
-    "clue": "Alplerden fillerle geçen Kartacalı komutan",
-    "cat": "Tarih"
+    "r": 3,
+    "c": 7,
+    "answer": "ÇARŞAMBA",
+    "clue": "Haftanın dördüncü günü",
+    "cat": "Genel"
    },
    {
     "id": "A8",
     "n": 8,
     "dir": "A",
-    "r": 5,
+    "r": 4,
     "c": 0,
-    "answer": "KOLOMB",
-    "clue": "Amerika’ya 1492’de ulaşan İtalyan kaşif",
-    "cat": "Tarih"
+    "answer": "TRİBÜN",
+    "clue": "Seyircilerin oturduğu basamaklı yer",
+    "cat": "Spor"
    },
    {
     "id": "D9",
     "n": 9,
     "dir": "D",
-    "r": 5,
-    "c": 14,
-    "answer": "URANYUM",
-    "clue": "Nükleer enerjide yakıt olarak kullanılan ağır element",
-    "cat": "Bilim"
+    "r": 4,
+    "c": 3,
+    "answer": "BALKON",
+    "clue": "Evin dışarıya açılan korkuluklu bölümü",
+    "cat": "Genel"
    },
    {
-    "id": "A10",
+    "id": "D10",
     "n": 10,
-    "dir": "A",
-    "r": 6,
-    "c": 6,
-    "answer": "BALIKESİR",
-    "clue": "Hem Marmara’ya hem Ege’ye kıyısı olan, Kaz Dağları’nın ili",
-    "cat": "Coğrafya"
-   },
-   {
-    "id": "D11",
-    "n": 11,
     "dir": "D",
-    "r": 6,
-    "c": 9,
-    "answer": "ISLAMABAD",
-    "clue": "Pakistan’ın başkenti",
-    "cat": "Coğrafya"
+    "r": 5,
+    "c": 6,
+    "answer": "FİRAVUN",
+    "clue": "Eski Mısır hükümdarlarının unvanı",
+    "cat": "Tarih"
    },
    {
-    "id": "A12",
-    "n": 12,
+    "id": "A11",
+    "n": 11,
     "dir": "A",
-    "r": 7,
-    "c": 0,
-    "answer": "FENİKE",
-    "clue": "Alfabeyi yayan denizci ticaret uygarlığı",
-    "cat": "Tarih"
+    "r": 6,
+    "c": 5,
+    "answer": "MİKROP",
+    "clue": "Gözle görülmeyen hastalık yapıcı canlı",
+    "cat": "Bilim"
    },
    {
     "id": "D12",
     "n": 12,
     "dir": "D",
-    "r": 7,
-    "c": 0,
-    "answer": "FRESK",
-    "clue": "Islak sıva üstüne yapılan duvar resmi",
-    "cat": "Sanat"
+    "r": 6,
+    "c": 10,
+    "answer": "PAZARTESİ",
+    "clue": "Haftanın ilk günü",
+    "cat": "Genel"
    },
    {
-    "id": "D13",
+    "id": "A13",
     "n": 13,
-    "dir": "D",
-    "r": 7,
-    "c": 4,
-    "answer": "KARACA",
-    "clue": "Küçük yapılı, zarif bir yabani geyik türü",
-    "cat": "Doğa"
-   },
-   {
-    "id": "D14",
-    "n": 14,
-    "dir": "D",
-    "r": 8,
-    "c": 11,
-    "answer": "MATBAA",
-    "clue": "Gutenberg’in kitap basımını yaygınlaştıran icadı",
-    "cat": "Bilim"
-   },
-   {
-    "id": "A15",
-    "n": 15,
     "dir": "A",
-    "r": 9,
+    "r": 8,
     "c": 2,
-    "answer": "SERVER",
-    "clue": "Ağdaki bilgisayarlara hizmet veren ana makine",
+    "answer": "DONMA",
+    "clue": "Sıvının soğuyarak katılaşması",
     "cat": "Bilim"
+   },
+   {
+    "id": "A14",
+    "n": 14,
+    "dir": "A",
+    "r": 8,
+    "c": 9,
+    "answer": "IZGARA",
+    "clue": "Köfte ve balığın üstünde piştiği demir çubuklu düzenek",
+    "cat": "Yemek"
    },
    {
     "id": "D15",
     "n": 15,
     "dir": "D",
     "r": 9,
-    "c": 2,
-    "answer": "SİVAS",
-    "clue": "Kızılırmak’ın doğduğu İç Anadolu ili",
-    "cat": "Coğrafya"
+    "c": 0,
+    "answer": "HAFİF",
+    "clue": "Ağır’ın karşıtı",
+    "cat": "Dil"
    },
    {
     "id": "D16",
     "n": 16,
     "dir": "D",
-    "r": 11,
-    "c": 6,
+    "r": 10,
+    "c": 2,
     "answer": "İYON",
     "clue": "Elektron alıp vermiş yüklü atom",
     "cat": "Bilim"
@@ -8167,41 +8147,61 @@
     "id": "A17",
     "n": 17,
     "dir": "A",
-    "r": 11,
+    "r": 10,
     "c": 8,
-    "answer": "RAGBİ",
-    "clue": "Oval topla oynanan sert takım oyunu",
-    "cat": "Spor"
+    "answer": "HOROZ",
+    "clue": "Sabahları ötmesiyle bilinen erkek kuş",
+    "cat": "Doğa"
    },
    {
-    "id": "A18",
+    "id": "D17",
+    "n": 17,
+    "dir": "D",
+    "r": 10,
+    "c": 8,
+    "answer": "HELVA",
+    "clue": "Tahin ya da irmikten yapılan tatlı",
+    "cat": "Yemek"
+   },
+   {
+    "id": "D18",
     "n": 18,
-    "dir": "A",
-    "r": 12,
-    "c": 1,
-    "answer": "PAPATYA",
-    "clue": "Beyaz yaprak, sarı göbekli çiçek; çayı rahatlatır",
-    "cat": "Doğa"
+    "dir": "D",
+    "r": 10,
+    "c": 12,
+    "answer": "ZÜHRE",
+    "clue": "Tahir’in sevgilisi",
+    "cat": "Sanat"
    },
    {
     "id": "A19",
     "n": 19,
     "dir": "A",
-    "r": 13,
-    "c": 8,
-    "answer": "DARALMA",
-    "clue": "Geniş ünlünün dar ünlüye dönüşmesi",
-    "cat": "Dil"
+    "r": 11,
+    "c": 2,
+    "answer": "YOSUN",
+    "clue": "Nemli yerlerde taşları kaplayan yeşil bitki",
+    "cat": "Doğa"
    },
    {
     "id": "A20",
     "n": 20,
     "dir": "A",
+    "r": 13,
+    "c": 0,
+    "answer": "FENİKE",
+    "clue": "Alfabeyi yayan denizci ticaret uygarlığı",
+    "cat": "Tarih"
+   },
+   {
+    "id": "A21",
+    "n": 21,
+    "dir": "A",
     "r": 14,
-    "c": 3,
-    "answer": "UTANÇ",
-    "clue": "Yüzü kızartan mahcubiyet duygusu",
-    "cat": "Genel"
+    "c": 7,
+    "answer": "HALİFE",
+    "clue": "İslam dünyasının dinî ve siyasi lideri",
+    "cat": "Tarih"
    }
   ]
  },
@@ -8261,7 +8261,7 @@
     "r": 0,
     "c": 10,
     "answer": "SIRIK",
-    "clue": "Yüksek atlamada kullanılan uzun esnek çubuk",
+    "clue": "Atletin çıtayı aşmak için dayandığı uzun esnek çubuk",
     "cat": "Spor"
    },
    {
@@ -8702,7 +8702,7 @@
     "r": 10,
     "c": 6,
     "answer": "SIRIK",
-    "clue": "Yüksek atlamada kullanılan uzun esnek çubuk",
+    "clue": "Atletin çıtayı aşmak için dayandığı uzun esnek çubuk",
     "cat": "Spor"
    },
    {
@@ -8740,7 +8740,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-035",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XXXV",
@@ -8759,11 +8759,11 @@
    "###Z###T##U#O##",
    "#L#####M##Ğ####",
    "#E####DARBUKA##",
-   "#HİTİT####L#S##",
+   "#HİTİT####L#Ş##",
    "#Ç###İ#İ#HAMUR#",
    "SENSÖR#V##M#R##",
    "#####ATMACA#E##",
-   "EDISON#E#######"
+   "EDİSON#E#######"
   ],
   "entries": [
    {
@@ -8912,7 +8912,7 @@
     "dir": "D",
     "r": 9,
     "c": 12,
-    "answer": "ASURE",
+    "answer": "AŞURE",
     "clue": "Muharrem ayında pişirilen bol malzemeli tatlı",
     "cat": "Yemek"
    },
@@ -8982,7 +8982,7 @@
     "dir": "A",
     "r": 14,
     "c": 0,
-    "answer": "EDISON",
+    "answer": "EDİSON",
     "clue": "Ampulü geliştiren ABD’li mucit",
     "cat": "Bilim"
    }
@@ -8991,7 +8991,7 @@
  {
   "schema": 1,
   "id": "klasik-kolay-036",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "kolay",
   "title": "Klasik bulmaca XXXVI",
@@ -9001,9 +9001,9 @@
   "cols": 15,
   "grid": [
    "KASA#STAT#ÇORBA",
-   "A#E#B###U####İ#",
+   "A#I#B###U####İ#",
    "PARMAK##R#MARS#",
-   "I#V#D#B#Ş####K#",
+   "I#T#D#B#Ş####K#",
    "###KEDİ#UMUT#Ü#",
    "#Y##M#Z##E###V#",
    "KURT#PAZARTESİ#",
@@ -9043,9 +9043,9 @@
     "dir": "D",
     "r": 0,
     "c": 2,
-    "answer": "SERV",
-    "clue": "İnce uzun, mezarlıklarda sık görülen ağaç",
-    "cat": "Doğa"
+    "answer": "SIRT",
+    "clue": "Gövdenin arka yüzü",
+    "cat": "Bilim"
    },
    {
     "id": "A3",
@@ -9164,7 +9164,7 @@
     "r": 5,
     "c": 1,
     "answer": "YUMURTA",
-    "clue": "Tavukların yumurtladığı besin",
+    "clue": "Tavuğun folluğa bıraktığı kabuklu besin",
     "cat": "Yemek"
    },
    {
@@ -9846,7 +9846,7 @@
     "r": 14,
     "c": 7,
     "answer": "KABARTMA",
-    "clue": "Yüzeyden dışa taşan oyma sanat",
+    "clue": "Yüzeyden dışa taşacak biçimde yapılan heykel, rölyef",
     "cat": "Sanat"
    }
   ]
@@ -10406,7 +10406,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-041",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XLI",
@@ -10420,7 +10420,7 @@
    "HELYUM#P#S##M#R",
    "E######A#ABBASİ",
    "R#DÖNMEZ#Y##L#T",
-   "O######ISTEKA##",
+   "O######ISTAKA##",
    "D#Y#G#E#U###Y#M",
    "O#Ö#Ü#Z#MEVLANA",
    "TÜREV#O#A#####L",
@@ -10498,7 +10498,7 @@
     "r": 2,
     "c": 7,
     "answer": "PAZI",
-    "clue": "Yeşil yapraklı, kökü kırmızı saplı ot",
+    "clue": "Sarması ve kavurması yapılan geniş yapraklı sebze",
     "cat": "Doğa"
    },
    {
@@ -10527,7 +10527,7 @@
     "dir": "A",
     "r": 5,
     "c": 7,
-    "answer": "ISTEKA",
+    "answer": "ISTAKA",
     "clue": "Bilardo topuna vurulan uzun sopa",
     "cat": "Spor"
    },
@@ -10709,7 +10709,7 @@
     "r": 0,
     "c": 13,
     "answer": "KABARTMA",
-    "clue": "Yüzeyden dışa taşan oyma sanat",
+    "clue": "Yüzeyden dışa taşacak biçimde yapılan heykel, rölyef",
     "cat": "Sanat"
    },
    {
@@ -10907,7 +10907,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-043",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XLIII",
@@ -10926,8 +10926,8 @@
    "##GEÇİŞLİ##R###",
    "##Ü##F##N##A#S#",
    "T#N###BREZİLYA#",
-   "I#D#A#Ü#R##E#T#",
-   "M#Ü#S#K#ANDLAR#",
+   "İ#D#A#Ü#R##E#T#",
+   "M#Ü#Ş#K#ANDLAR#",
    "S#Z#U#R#L####A#",
    "A###R#E##ZAMANI",
    "HARZEMŞAH####Ç#"
@@ -11089,8 +11089,8 @@
     "dir": "D",
     "r": 9,
     "c": 0,
-    "answer": "TIMSAH",
-    "clue": "Nehirlerde yaşayan iri sürüngen",
+    "answer": "TİMSAH",
+    "clue": "Nehirlerde yaşayan, geniş çeneli sürüngen",
     "cat": "Doğa"
    },
    {
@@ -11119,7 +11119,7 @@
     "dir": "D",
     "r": 10,
     "c": 4,
-    "answer": "ASURE",
+    "answer": "AŞURE",
     "clue": "Muharrem ayında pişirilen bol malzemeli tatlı",
     "cat": "Yemek"
    },
@@ -11459,7 +11459,7 @@
  {
   "schema": 1,
   "id": "klasik-kolay-045",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "kolay",
   "title": "Klasik bulmaca XLV",
@@ -11468,21 +11468,21 @@
   "rows": 15,
   "cols": 15,
   "grid": [
-   "#######MÜHENDİS",
-   "TAVUK##A####O#A",
-   "B#O####SAMSUN#L",
-   "M#LONDRA####M#O",
-   "M#E###E#HELVA#N",
-   "##YOSUN########",
-   "S#B###D##L#K###",
-   "A#O##SERGİ#O#D#",
-   "HALA#E###MERMER",
-   "U##K#R###O#O#N#",
-   "R##R#VİKİNG##İ#",
-   "#K#E###Ö###A#Z#",
-   "KALP#KEMER#Ğ#L#",
-   "#N#####Ü##HAFİF",
-   "TOROSLAR###Ç###"
+   "###H#ISPARTA###",
+   "KAYAK######F##P",
+   "E##L#Ç#####Y##A",
+   "M#MASA#HİDROJEN",
+   "E#Ü##K##S##N##D",
+   "R#H##M##K#####A",
+   "##E##A##E##L#Y#",
+   "FINDIK#ANTRENÖR",
+   "E#D#####D##V#N#",
+   "T#İNTERNET#R#E#",
+   "H#S#####R##E#T#",
+   "İ###K##K#HAKİM#",
+   "YORGAN#O##Ğ##E#",
+   "E###N##R#SALON#",
+   "###DOKTOR#Ç####"
   ],
   "entries": [
    {
@@ -11490,40 +11490,30 @@
     "n": 1,
     "dir": "D",
     "r": 0,
-    "c": 7,
-    "answer": "MASA",
-    "clue": "Üzerinde yemek yenen veya çalışılan mobilya",
+    "c": 3,
+    "answer": "HALA",
+    "clue": "Babanın kız kardeşi",
     "cat": "Genel"
    },
    {
-    "id": "A1",
-    "n": 1,
+    "id": "A2",
+    "n": 2,
     "dir": "A",
     "r": 0,
-    "c": 7,
-    "answer": "MÜHENDİS",
-    "clue": "Teknik projeleri tasarlayan uzman",
-    "cat": "Genel"
-   },
-   {
-    "id": "D2",
-    "n": 2,
-    "dir": "D",
-    "r": 0,
-    "c": 12,
-    "answer": "DONMA",
-    "clue": "Sıvının soğuyarak katılaşması",
-    "cat": "Bilim"
+    "c": 5,
+    "answer": "ISPARTA",
+    "clue": "Gül yağıyla tanınan Göller Yöresi ili",
+    "cat": "Coğrafya"
    },
    {
     "id": "D3",
     "n": 3,
     "dir": "D",
     "r": 0,
-    "c": 14,
-    "answer": "SALON",
-    "clue": "Konukların ağırlandığı geniş oda",
-    "cat": "Genel"
+    "c": 11,
+    "answer": "AFYON",
+    "clue": "Kaymağı ve termal suyuyla bilinen Ege iç kesimi şehri",
+    "cat": "Coğrafya"
    },
    {
     "id": "A4",
@@ -11531,9 +11521,9 @@
     "dir": "A",
     "r": 1,
     "c": 0,
-    "answer": "TAVUK",
-    "clue": "Yumurtasıyla bilinen çiftlik kuşu",
-    "cat": "Doğa"
+    "answer": "KAYAK",
+    "clue": "Karda ayağa takılan uzun tahtalarla yapılan spor",
+    "cat": "Spor"
    },
    {
     "id": "D4",
@@ -11541,29 +11531,39 @@
     "dir": "D",
     "r": 1,
     "c": 0,
-    "answer": "TBMM",
-    "clue": "Ankara’daki yasama organının kısaltması",
-    "cat": "Tarih"
+    "answer": "KEMER",
+    "clue": "Pantolonu belde tutan şerit",
+    "cat": "Genel"
    },
    {
     "id": "D5",
     "n": 5,
     "dir": "D",
     "r": 1,
-    "c": 2,
-    "answer": "VOLEYBOL",
-    "clue": "Topun fileden aşırıldığı takım sporu",
-    "cat": "Spor"
+    "c": 14,
+    "answer": "PANDA",
+    "clue": "Bambu yiyen siyah beyaz Çin ayısı",
+    "cat": "Doğa"
    },
    {
-    "id": "A6",
+    "id": "D6",
     "n": 6,
-    "dir": "A",
+    "dir": "D",
     "r": 2,
-    "c": 7,
-    "answer": "SAMSUN",
-    "clue": "Atatürk’ün 19 Mayıs 1919’da çıktığı Karadeniz limanı",
-    "cat": "Coğrafya"
+    "c": 5,
+    "answer": "ÇAKMAK",
+    "clue": "Ateş yakmaya yarayan küçük araç",
+    "cat": "Genel"
+   },
+   {
+    "id": "D7",
+    "n": 7,
+    "dir": "D",
+    "r": 3,
+    "c": 2,
+    "answer": "MÜHENDİS",
+    "clue": "Teknik projeleri tasarlayan uzman",
+    "cat": "Genel"
    },
    {
     "id": "A7",
@@ -11571,38 +11571,38 @@
     "dir": "A",
     "r": 3,
     "c": 2,
-    "answer": "LONDRA",
-    "clue": "Big Ben’in bulunduğu başkent",
-    "cat": "Coğrafya"
+    "answer": "MASA",
+    "clue": "Üzerinde yemek yenen veya çalışılan mobilya",
+    "cat": "Genel"
    },
    {
-    "id": "D8",
+    "id": "A8",
     "n": 8,
+    "dir": "A",
+    "r": 3,
+    "c": 7,
+    "answer": "HİDROJEN",
+    "clue": "Periyodik tablonun en hafif elementi",
+    "cat": "Bilim"
+   },
+   {
+    "id": "D9",
+    "n": 9,
     "dir": "D",
     "r": 3,
-    "c": 6,
-    "answer": "RENDE",
-    "clue": "Peynir veya havuç ezmek için kullanılan delikli mutfak aleti",
-    "cat": "Yemek"
-   },
-   {
-    "id": "A9",
-    "n": 9,
-    "dir": "A",
-    "r": 4,
     "c": 8,
-    "answer": "HELVA",
-    "clue": "Tahin ya da irmikten yapılan tatlı",
-    "cat": "Yemek"
+    "answer": "İSKENDER",
+    "clue": "Makedonya’dan Hindistan’a uzanan seferleriyle ünlü kral",
+    "cat": "Tarih"
    },
    {
-    "id": "A10",
+    "id": "D10",
     "n": 10,
-    "dir": "A",
-    "r": 5,
-    "c": 2,
-    "answer": "YOSUN",
-    "clue": "Nemli yerlerde taşları kaplayan yeşil bitki",
+    "dir": "D",
+    "r": 6,
+    "c": 11,
+    "answer": "LEVREK",
+    "clue": "Izgarası sevilen, yırtıcı bir deniz balığı",
     "cat": "Doğa"
    },
    {
@@ -11610,177 +11610,127 @@
     "n": 11,
     "dir": "D",
     "r": 6,
+    "c": 13,
+    "answer": "YÖNETMEN",
+    "clue": "Filmi yönlendiren sanat insanı",
+    "cat": "Sanat"
+   },
+   {
+    "id": "A12",
+    "n": 12,
+    "dir": "A",
+    "r": 7,
     "c": 0,
-    "answer": "SAHUR",
-    "clue": "Ramazanda tan vaktinden önceki yemek",
-    "cat": "Genel"
+    "answer": "FINDIK",
+    "clue": "Karadeniz’in ünlü kabuklu yemişi",
+    "cat": "Yemek"
    },
    {
     "id": "D12",
     "n": 12,
     "dir": "D",
-    "r": 6,
-    "c": 9,
-    "answer": "LİMON",
-    "clue": "Ekşi sarı narenciye",
-    "cat": "Yemek"
+    "r": 7,
+    "c": 0,
+    "answer": "FETHİYE",
+    "clue": "Ölüdeniz’in yakınındaki Muğla ilçesi",
+    "cat": "Coğrafya"
    },
    {
-    "id": "D13",
+    "id": "A13",
     "n": 13,
-    "dir": "D",
-    "r": 6,
-    "c": 11,
-    "answer": "KORO",
-    "clue": "Birlikte şarkı söyleyen topluluk",
-    "cat": "Sanat"
+    "dir": "A",
+    "r": 7,
+    "c": 7,
+    "answer": "ANTRENÖR",
+    "clue": "Sporcuları çalıştıran uzman",
+    "cat": "Spor"
    },
    {
     "id": "A14",
     "n": 14,
     "dir": "A",
-    "r": 7,
-    "c": 5,
-    "answer": "SERGİ",
-    "clue": "Eserlerin halka gösterildiği düzenleme",
-    "cat": "Sanat"
-   },
-   {
-    "id": "D14",
-    "n": 14,
-    "dir": "D",
-    "r": 7,
-    "c": 5,
-    "answer": "SERV",
-    "clue": "İnce uzun, mezarlıklarda sık görülen ağaç",
-    "cat": "Doğa"
+    "r": 9,
+    "c": 2,
+    "answer": "İNTERNET",
+    "clue": "Dünyayı saran bilgisayar ağı",
+    "cat": "Bilim"
    },
    {
     "id": "D15",
     "n": 15,
     "dir": "D",
-    "r": 7,
-    "c": 13,
-    "answer": "DENİZLİ",
-    "clue": "Beyaz travertenleriyle ünlü Ege ili",
-    "cat": "Coğrafya"
+    "r": 11,
+    "c": 4,
+    "answer": "KANO",
+    "clue": "Çift uçlu kürekle ilerletilen dar tekne",
+    "cat": "Spor"
    },
    {
-    "id": "A16",
+    "id": "D16",
     "n": 16,
+    "dir": "D",
+    "r": 11,
+    "c": 7,
+    "answer": "KORO",
+    "clue": "Birlikte şarkı söyleyen topluluk",
+    "cat": "Sanat"
+   },
+   {
+    "id": "A17",
+    "n": 17,
     "dir": "A",
-    "r": 8,
-    "c": 0,
-    "answer": "HALA",
-    "clue": "Babanın kız kardeşi",
+    "r": 11,
+    "c": 9,
+    "answer": "HAKİM",
+    "clue": "Mahkemede karar veren yargı görevlisi",
     "cat": "Genel"
    },
    {
-    "id": "D17",
-    "n": 17,
-    "dir": "D",
-    "r": 8,
-    "c": 3,
-    "answer": "AKREP",
-    "clue": "Kuyruğunda zehirli iğne taşıyan canlı",
-    "cat": "Doğa"
-   },
-   {
-    "id": "A18",
+    "id": "D18",
     "n": 18,
-    "dir": "A",
-    "r": 8,
-    "c": 9,
-    "answer": "MERMER",
-    "clue": "Heykel ve zemin kaplamada kullanılan parlak taş",
+    "dir": "D",
+    "r": 11,
+    "c": 10,
+    "answer": "AĞAÇ",
+    "clue": "Gövdesi, dalları ve yaprakları olan büyük bitki",
     "cat": "Doğa"
    },
    {
     "id": "A19",
     "n": 19,
     "dir": "A",
-    "r": 10,
-    "c": 5,
-    "answer": "VİKİNG",
-    "clue": "Kuzey denizlerinde akın yapan İskandinav denizci",
-    "cat": "Tarih"
-   },
-   {
-    "id": "D20",
-    "n": 20,
-    "dir": "D",
-    "r": 10,
-    "c": 7,
-    "answer": "KÖMÜR",
-    "clue": "Isınmada yakılan siyah fosil yakıt",
-    "cat": "Doğa"
-   },
-   {
-    "id": "D21",
-    "n": 21,
-    "dir": "D",
-    "r": 11,
-    "c": 1,
-    "answer": "KANO",
-    "clue": "Çift uçlu kürekle ilerletilen dar tekne",
-    "cat": "Spor"
-   },
-   {
-    "id": "D22",
-    "n": 22,
-    "dir": "D",
-    "r": 11,
-    "c": 11,
-    "answer": "AĞAÇ",
-    "clue": "Gövdesi, dalları ve yaprakları olan büyük bitki",
-    "cat": "Doğa"
-   },
-   {
-    "id": "A23",
-    "n": 23,
-    "dir": "A",
     "r": 12,
     "c": 0,
-    "answer": "KALP",
-    "clue": "Kanı pompalayan organ",
-    "cat": "Bilim"
-   },
-   {
-    "id": "A24",
-    "n": 24,
-    "dir": "A",
-    "r": 12,
-    "c": 5,
-    "answer": "KEMER",
-    "clue": "Pantolonu belde tutan şerit",
+    "answer": "YORGAN",
+    "clue": "Soğukta üstümüze çektiğimiz kalın örtü",
     "cat": "Genel"
    },
    {
-    "id": "A25",
-    "n": 25,
+    "id": "A20",
+    "n": 20,
     "dir": "A",
     "r": 13,
-    "c": 10,
-    "answer": "HAFİF",
-    "clue": "Ağır’ın karşıtı",
-    "cat": "Dil"
+    "c": 9,
+    "answer": "SALON",
+    "clue": "Konukların ağırlandığı geniş oda",
+    "cat": "Genel"
    },
    {
-    "id": "A26",
-    "n": 26,
+    "id": "A21",
+    "n": 21,
     "dir": "A",
     "r": 14,
-    "c": 0,
-    "answer": "TOROSLAR",
-    "clue": "Akdeniz kıyısına paralel uzanan dağ silsilesi",
-    "cat": "Coğrafya"
+    "c": 3,
+    "answer": "DOKTOR",
+    "clue": "Hastaları tedavi eden kişi",
+    "cat": "Genel"
    }
   ]
  },
  {
   "schema": 1,
   "id": "klasik-orta-046",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XLVI",
@@ -11803,7 +11753,7 @@
    "#####V##R#REDİF",
    "#DRİBLİNG##M#L#",
    "#####İ##E##U###",
-   "##ÇİĞDEM#VURGU#"
+   "##DANTEL#VURGU#"
   ],
   "entries": [
    {
@@ -11952,8 +11902,8 @@
     "dir": "D",
     "r": 9,
     "c": 5,
-    "answer": "MEVLİD",
-    "clue": "Peygamber doğumunu anlatan uzun şiir",
+    "answer": "MEVLİT",
+    "clue": "Süleyman Çelebi’nin Peygamber’in doğumunu anlatan şiiri",
     "cat": "Sanat"
    },
    {
@@ -12012,9 +11962,9 @@
     "dir": "A",
     "r": 14,
     "c": 2,
-    "answer": "ÇİĞDEM",
-    "clue": "Karların arasından çıkan ilk bahar çiçeklerinden",
-    "cat": "Doğa"
+    "answer": "DANTEL",
+    "clue": "İnce ipten yapılan delikli süs örgüsü",
+    "cat": "Sanat"
    },
    {
     "id": "A20",
@@ -12031,7 +11981,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-047",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca XLVII",
@@ -12045,7 +11995,7 @@
    "I######İ####O#İ",
    "S######Ş####N#B",
    "T#K#T##T##M#D#L",
-   "E#I#REPERTUAR#İ",
+   "A#I#REPERTUAR#İ",
    "K#R#A#####Ğ#O#N",
    "ARANJÖR#M#L#S#G",
    "##Ğ#E##BOĞAZ#M#",
@@ -12113,7 +12063,7 @@
     "dir": "D",
     "r": 2,
     "c": 0,
-    "answer": "ISTEKA",
+    "answer": "ISTAKA",
     "clue": "Bilardo topuna vurulan uzun sopa",
     "cat": "Spor"
    },
@@ -12756,7 +12706,7 @@
     "r": 9,
     "c": 0,
     "answer": "TULUM",
-    "clue": "Deri tulumda olgunlaşan, kuvvetli kokulu peynir",
+    "clue": "Keçi derisinde olgunlaşan, kuvvetli kokulu peynir",
     "cat": "Yemek"
    },
    {
@@ -13055,7 +13005,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-051",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca LI",
@@ -13069,7 +13019,7 @@
    "#OKÇULUK##K#U##",
    "#R#O#####KAÇKAR",
    "KORKU#####T#L##",
-   "#F#G####TIMSAH#",
+   "#F#G####TİMSAH#",
    "#İ#E######A####",
    "#L#NAPOLYON####",
    "V#M###L###D#S##",
@@ -13167,8 +13117,8 @@
     "dir": "A",
     "r": 5,
     "c": 8,
-    "answer": "TIMSAH",
-    "clue": "Nehirlerde yaşayan iri sürüngen",
+    "answer": "TİMSAH",
+    "clue": "Nehirlerde yaşayan, geniş çeneli sürüngen",
     "cat": "Doğa"
    },
    {
@@ -13286,7 +13236,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-052",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca LII",
@@ -13296,11 +13246,11 @@
   "cols": 15,
   "grid": [
    "SODYUM#####İ#D#",
-   "E####O#YOĞUŞMA#",
-   "R#T##N#Ü###K#R#",
-   "V#U##T#K###E#D#",
-   "E#TRİATLON#M#A#",
-   "R#U##J#E###B#N#",
+   "U####O#YOĞUŞMA#",
+   "N#T##N#Ü###K#R#",
+   "U#U##T#K###E#D#",
+   "C#TRİATLON#M#A#",
+   "U#U##J#E###B#N#",
    "##L#Ş##MENDERES",
    "##M#E#A###İ##L#",
    "#SAFRAN###R###Ö",
@@ -13328,7 +13278,7 @@
     "dir": "D",
     "r": 0,
     "c": 0,
-    "answer": "SERVER",
+    "answer": "SUNUCU",
     "clue": "Ağdaki bilgisayarlara hizmet veren ana makine",
     "cat": "Bilim"
    },
@@ -13349,7 +13299,7 @@
     "r": 0,
     "c": 11,
     "answer": "İŞKEMBE",
-    "clue": "Sirke ve sarımsakla servis edilen çorba",
+    "clue": "Sirkeli sarımsaklı çorbası sevilen sakatat",
     "cat": "Yemek"
    },
    {
@@ -13419,7 +13369,7 @@
     "r": 6,
     "c": 7,
     "answer": "MENDERES",
-    "clue": "Kıvrılarak akan Ege nehri; kıvrım sözcüğünün kökeni",
+    "clue": "Batı dillerindeki “meander” sözcüğüne adını veren Ege nehri",
     "cat": "Coğrafya"
    },
    {
@@ -13439,7 +13389,7 @@
     "r": 7,
     "c": 6,
     "answer": "ANESTEZİ",
-    "clue": "Ameliyatta duyguyu geçici olarak gideren uygulama",
+    "clue": "Ameliyatta ağrı duyusunu geçici gideren uygulama",
     "cat": "Bilim"
    },
    {
@@ -14824,7 +14774,7 @@
     "r": 10,
     "c": 11,
     "answer": "SİNEK",
-    "clue": "Vızıldayarak sokan küçük uçan haşere",
+    "clue": "Vızıldayan, çöplere üşüşen küçük uçan böcek",
     "cat": "Doğa"
    },
    {
@@ -14902,7 +14852,7 @@
  {
   "schema": 1,
   "id": "klasik-kolay-058",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "kolay",
   "title": "Klasik bulmaca LVIII",
@@ -14924,7 +14874,7 @@
    "####I#A#A#SİRKE",
    "BOYUN#R#P##Y###",
    "###Ç##G###MERAK",
-   "PİRANHA####C###",
+   "KANARYA####C###",
    "###K###TÜRKİYE#"
   ],
   "entries": [
@@ -15174,8 +15124,8 @@
     "dir": "A",
     "r": 13,
     "c": 0,
-    "answer": "PİRANHA",
-    "clue": "Keskin dişli, sürü halinde saldıran tatlı su balığı",
+    "answer": "KANARYA",
+    "clue": "Kafeste beslenen, sarı tüylü şarkıcı kuş",
     "cat": "Doğa"
    },
    {
@@ -15785,7 +15735,7 @@
  {
   "schema": 1,
   "id": "klasik-kolay-061",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "kolay",
   "title": "Klasik bulmaca LXI",
@@ -15799,9 +15749,9 @@
    "EFENDİ####B####",
    "Y##K#R#B##R##M#",
    "İ##ANANAS#AYRAN",
-   "T####N#L#####S#",
-   "##M##H#İ##KEBAP",
-   "#SALÇA#N##A##L#",
+   "T####M#L#####S#",
+   "##M##İ#İ##KEBAP",
+   "#YAKUT#N##A##L#",
    "##K###HARÇLIK#B",
    "KLAVYE####E#Ö#A",
    "O#R#####D###R#Y",
@@ -15857,9 +15807,9 @@
     "dir": "D",
     "r": 1,
     "c": 5,
-    "answer": "PİRANHA",
-    "clue": "Keskin dişli, sürü halinde saldıran tatlı su balığı",
-    "cat": "Doğa"
+    "answer": "PİRAMİT",
+    "clue": "Eski Mısırlı kralların üçgen biçimli mezarı",
+    "cat": "Tarih"
    },
    {
     "id": "A4",
@@ -15957,9 +15907,9 @@
     "dir": "A",
     "r": 7,
     "c": 1,
-    "answer": "SALÇA",
-    "clue": "Domates veya biberin kaynatılıp koyulaştırılmasıyla yapılan ezme",
-    "cat": "Yemek"
+    "answer": "YAKUT",
+    "clue": "Kırmızı renkli değerli taş",
+    "cat": "Doğa"
    },
    {
     "id": "A13",
@@ -16259,7 +16209,7 @@
     "r": 8,
     "c": 6,
     "answer": "KAYAK",
-    "clue": "Karda kızakla kayarak yapılan spor",
+    "clue": "Karda ayağa takılan uzun tahtalarla yapılan spor",
     "cat": "Spor"
    },
    {
@@ -16420,7 +16370,7 @@
     "r": 0,
     "c": 13,
     "answer": "SESİ",
-    "clue": "Bir elin nesi var, iki elin ... (atasözü sonu)",
+    "clue": "Bir elin nesi var, iki elin ... var (atasözü)",
     "cat": "Dil"
    },
    {
@@ -16610,7 +16560,7 @@
     "r": 11,
     "c": 8,
     "answer": "KUBBE",
-    "clue": "Camii üstündeki yarım küre biçimli örtü",
+    "clue": "Caminin üstündeki yarım küre biçimli örtü",
     "cat": "Sanat"
    },
    {
@@ -16911,7 +16861,7 @@
     "r": 11,
     "c": 0,
     "answer": "SESİ",
-    "clue": "Bir elin nesi var, iki elin ... (atasözü sonu)",
+    "clue": "Bir elin nesi var, iki elin ... var (atasözü)",
     "cat": "Dil"
    },
    {
@@ -17240,7 +17190,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-066",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca LXVI",
@@ -17258,12 +17208,12 @@
    "İ######T#K#T#K#",
    "#U##P#HOMEROS#K",
    "#R##R##S#R#N##I",
-   "#A#MENDERES#G#S",
-   "#N##V##N#V##Ö#A",
-   "TÜMLEÇ#T#İ##R#L",
+   "#A#MENDERES#K#S",
+   "#N##V##N#V##A#A",
+   "TÜMLEÇ#T#İ##L#L",
    "#S##Z#ZELZELE#T",
-   "####E##Z####M#M",
-   "########KANBERA"
+   "####E##Z####C#M",
+   "########MEKSİKA"
   ],
   "entries": [
    {
@@ -17423,7 +17373,7 @@
     "r": 9,
     "c": 3,
     "answer": "MENDERES",
-    "clue": "Kıvrılarak akan Ege nehri; kıvrım sözcüğünün kökeni",
+    "clue": "Batı dillerindeki “meander” sözcüğüne adını veren Ege nehri",
     "cat": "Coğrafya"
    },
    {
@@ -17432,9 +17382,9 @@
     "dir": "D",
     "r": 9,
     "c": 12,
-    "answer": "GÖREME",
-    "clue": "Peri bacalarının ortasındaki Nevşehir ilçesi",
-    "cat": "Coğrafya"
+    "answer": "KALECİ",
+    "clue": "Kaleyi koruyan oyuncu",
+    "cat": "Spor"
    },
    {
     "id": "A18",
@@ -17462,8 +17412,8 @@
     "dir": "A",
     "r": 14,
     "c": 8,
-    "answer": "KANBERA",
-    "clue": "Sidney değil, Avustralya’nın gerçek başkenti",
+    "answer": "MEKSİKA",
+    "clue": "Piramitleri ve sombrerosuyla anılan Kuzey Amerika ülkesi",
     "cat": "Coğrafya"
    }
   ]
@@ -17634,7 +17584,7 @@
     "r": 7,
     "c": 9,
     "answer": "DAMAT",
-    "clue": "Evlenen erkek veya kızın eşi",
+    "clue": "Gelinin eşi olan erkek; güvey",
     "cat": "Genel"
    },
    {
@@ -18537,7 +18487,7 @@
     "r": 11,
     "c": 0,
     "answer": "GÖREME",
-    "clue": "Peri bacalarının ortasındaki Nevşehir ilçesi",
+    "clue": "Peri bacalarıyla ünlü Nevşehir beldesi",
     "cat": "Coğrafya"
    },
    {
@@ -18806,7 +18756,7 @@
  {
   "schema": 1,
   "id": "klasik-orta-072",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "orta",
   "title": "Klasik bulmaca LXXII",
@@ -18824,11 +18774,11 @@
    "H##R#M##Ş#B#F#E",
    "#####E#ÇAĞLAYAN",
    "##S##L##H#Ö#A#F",
-   "#MEVLİD###R###L",
+   "#MEVLİT###R###L",
    "K#N######M####A",
    "Ü#FATİH#KÜÇÜK#S",
    "R#O######Z####Y",
-   "EINSTEIN#İ####O",
+   "EİNSTEİN#İ####O",
    "K#İ######KAPLAN"
   ],
   "entries": [
@@ -18978,8 +18928,8 @@
     "dir": "A",
     "r": 9,
     "c": 1,
-    "answer": "MEVLİD",
-    "clue": "Peygamber doğumunu anlatan uzun şiir",
+    "answer": "MEVLİT",
+    "clue": "Süleyman Çelebi’nin Peygamber’in doğumunu anlatan şiiri",
     "cat": "Sanat"
    },
    {
@@ -19028,7 +18978,7 @@
     "dir": "A",
     "r": 13,
     "c": 0,
-    "answer": "EINSTEIN",
+    "answer": "EİNSTEİN",
     "clue": "Görelilik kuramının sahibi bilim insanı",
     "cat": "Bilim"
    },
@@ -19732,7 +19682,7 @@
     "r": 9,
     "c": 0,
     "answer": "KOCATEPE",
-    "clue": "Afyon’da Büyük Taarruz’un ilk günlerinde alınan tepe",
+    "clue": "Atatürk’ün Büyük Taarruz’u yönettiği Afyon’daki tepe",
     "cat": "Tarih"
    },
    {
@@ -19923,7 +19873,7 @@
     "r": 5,
     "c": 14,
     "answer": "FRAMBUAZ",
-    "clue": "Kırmızı, noktalı ve ekşi çalı meyvesi",
+    "clue": "Ahududunun Fransızcadan gelen adı",
     "cat": "Doğa"
    },
    {
@@ -20174,7 +20124,7 @@
     "r": 3,
     "c": 11,
     "answer": "KUBBE",
-    "clue": "Camii üstündeki yarım küre biçimli örtü",
+    "clue": "Caminin üstündeki yarım küre biçimli örtü",
     "cat": "Sanat"
    },
    {
@@ -20897,7 +20847,7 @@
     "r": 0,
     "c": 13,
     "answer": "FRAMBUAZ",
-    "clue": "Kırmızı, noktalı ve ekşi çalı meyvesi",
+    "clue": "Ahududunun Fransızcadan gelen adı",
     "cat": "Doğa"
    },
    {
@@ -21105,7 +21055,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-081",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca LXXXI",
@@ -21114,229 +21064,249 @@
   "rows": 15,
   "cols": 15,
   "grid": [
-   "ÇOCUK##YUMUŞAMA",
-   "#Y#######A###E#",
-   "SURİYE#K#R###L#",
-   "#N###I#E#U#N#İ#",
-   "#C###N#HELSİNKİ",
-   "#ASANSÖR###Ş#Ş#",
-   "#K###T#İ##KAYAK",
-   "###O#E#B###N#H#",
-   "#ÇALDIRAN##C##İ",
-   "#A#A#N#R###I##Ş",
-   "#K#S######T###K",
-   "#M#I#####DERECE",
-   "ÇAĞLAYAN##Y###M",
-   "#K#I######Z###B",
-   "###KARACİĞER##E"
+   "#S#######H#####",
+   "BAĞIRSAK#E##M##",
+   "#L#######C##A#H",
+   "#Ç#C#B##MENEKŞE",
+   "KAPIKULU####A#L",
+   "A##V#L##B#G#L#S",
+   "R##A#UĞURBÖCEĞİ",
+   "A####T##Ü#R###N",
+   "N#P####AKREP##K",
+   "F#A#####S#M###İ",
+   "İ#P#R###ENERJİ#",
+   "L#A#AMPUL##E###",
+   "##Ğ#G####FİNCAN",
+   "##A#B######D###",
+   "HİNDİSTAN#ŞEHİT"
   ],
   "entries": [
    {
-    "id": "A1",
+    "id": "D1",
     "n": 1,
-    "dir": "A",
+    "dir": "D",
     "r": 0,
-    "c": 0,
-    "answer": "ÇOCUK",
-    "clue": "Büyümekte olan küçük insan",
-    "cat": "Genel"
+    "c": 1,
+    "answer": "SALÇA",
+    "clue": "Domates veya biberin kaynatılıp koyulaştırılmasıyla yapılan ezme",
+    "cat": "Yemek"
    },
    {
     "id": "D2",
     "n": 2,
     "dir": "D",
     "r": 0,
-    "c": 1,
-    "answer": "OYUNCAK",
-    "clue": "Çocukların oynadığı eşya",
-    "cat": "Genel"
+    "c": 9,
+    "answer": "HECE",
+    "clue": "Tek solukta söylenen ses birimi",
+    "cat": "Dil"
    },
    {
     "id": "A3",
     "n": 3,
     "dir": "A",
-    "r": 0,
-    "c": 7,
-    "answer": "YUMUŞAMA",
-    "clue": "Kitap sözcüğünün kitabı olmasındaki ses olayı",
-    "cat": "Dil"
+    "r": 1,
+    "c": 0,
+    "answer": "BAĞIRSAK",
+    "clue": "Sindirimin son aşamasını gerçekleştiren uzun boru",
+    "cat": "Bilim"
    },
    {
     "id": "D4",
     "n": 4,
     "dir": "D",
-    "r": 0,
-    "c": 9,
-    "answer": "MARUL",
-    "clue": "Yaprakları salatada kullanılan yeşillik",
-    "cat": "Doğa"
+    "r": 1,
+    "c": 12,
+    "answer": "MAKALE",
+    "clue": "Gazetede bir konuyu işleyen yazı",
+    "cat": "Sanat"
    },
    {
     "id": "D5",
     "n": 5,
     "dir": "D",
-    "r": 0,
-    "c": 13,
-    "answer": "MELİKŞAH",
-    "clue": "Alparslan’ın yerine geçen oğlu",
-    "cat": "Tarih"
-   },
-   {
-    "id": "A6",
-    "n": 6,
-    "dir": "A",
     "r": 2,
-    "c": 0,
-    "answer": "SURİYE",
-    "clue": "Güney sınırımızdaki, Şam başkentli komşu",
-    "cat": "Coğrafya"
-   },
-   {
-    "id": "D7",
-    "n": 7,
-    "dir": "D",
-    "r": 2,
-    "c": 5,
-    "answer": "EINSTEIN",
-    "clue": "Görelilik kuramının sahibi bilim insanı",
-    "cat": "Bilim"
-   },
-   {
-    "id": "D8",
-    "n": 8,
-    "dir": "D",
-    "r": 2,
-    "c": 7,
-    "answer": "KEHRİBAR",
-    "clue": "Fosilleşmiş ağaç reçinesinden oluşan sarı taş",
-    "cat": "Doğa"
-   },
-   {
-    "id": "D9",
-    "n": 9,
-    "dir": "D",
-    "r": 3,
-    "c": 11,
-    "answer": "NİŞANCI",
-    "clue": "Fermanlara tuğra çeken divan üyesi",
-    "cat": "Tarih"
-   },
-   {
-    "id": "A10",
-    "n": 10,
-    "dir": "A",
-    "r": 4,
-    "c": 7,
+    "c": 14,
     "answer": "HELSİNKİ",
     "clue": "Finlandiya’nın başkenti",
     "cat": "Coğrafya"
    },
    {
-    "id": "A11",
-    "n": 11,
+    "id": "D6",
+    "n": 6,
+    "dir": "D",
+    "r": 3,
+    "c": 3,
+    "answer": "CIVA",
+    "clue": "Oda sıcaklığında sıvı olan tek metal",
+    "cat": "Doğa"
+   },
+   {
+    "id": "D7",
+    "n": 7,
+    "dir": "D",
+    "r": 3,
+    "c": 5,
+    "answer": "BULUT",
+    "clue": "Gökyüzünde yağmuru taşıyan su buharı kümesi",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A8",
+    "n": 8,
     "dir": "A",
+    "r": 3,
+    "c": 8,
+    "answer": "MENEKŞE",
+    "clue": "Mor renkli, kokulu küçük ilkbahar çiçeği",
+    "cat": "Doğa"
+   },
+   {
+    "id": "A9",
+    "n": 9,
+    "dir": "A",
+    "r": 4,
+    "c": 0,
+    "answer": "KAPIKULU",
+    "clue": "Padişahın maaşlı daimî ordusuna verilen ad",
+    "cat": "Tarih"
+   },
+   {
+    "id": "D9",
+    "n": 9,
+    "dir": "D",
+    "r": 4,
+    "c": 0,
+    "answer": "KARANFİL",
+    "clue": "Kırmızısı 1 Mayıs’ta yakaya takılan çiçek",
+    "cat": "Doğa"
+   },
+   {
+    "id": "D10",
+    "n": 10,
+    "dir": "D",
     "r": 5,
-    "c": 1,
-    "answer": "ASANSÖR",
-    "clue": "Kat çıkmaya yarayan kabin",
-    "cat": "Genel"
+    "c": 8,
+    "answer": "BRÜKSEL",
+    "clue": "Avrupa Birliği’nin kurumlarına ev sahipliği yapan Belçika başkenti",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "D11",
+    "n": 11,
+    "dir": "D",
+    "r": 5,
+    "c": 10,
+    "answer": "GÖREME",
+    "clue": "Peri bacalarıyla ünlü Nevşehir beldesi",
+    "cat": "Coğrafya"
    },
    {
     "id": "A12",
     "n": 12,
     "dir": "A",
     "r": 6,
-    "c": 10,
-    "answer": "KAYAK",
-    "clue": "Karda kızakla kayarak yapılan spor",
-    "cat": "Spor"
+    "c": 5,
+    "answer": "UĞURBÖCEĞİ",
+    "clue": "Kırmızı üstüne siyah benekli, uğurlu sayılan böcek",
+    "cat": "Doğa"
    },
    {
     "id": "D13",
     "n": 13,
     "dir": "D",
-    "r": 7,
-    "c": 3,
-    "answer": "OLASILIK",
-    "clue": "Bir olayın gerçekleşme ihtimalinin sayısal değeri",
-    "cat": "Bilim"
+    "r": 8,
+    "c": 2,
+    "answer": "PAPAĞAN",
+    "clue": "İnsan sesini taklit edebilen renkli kuş",
+    "cat": "Doğa"
    },
    {
     "id": "A14",
     "n": 14,
     "dir": "A",
     "r": 8,
-    "c": 1,
-    "answer": "ÇALDIRAN",
-    "clue": "Yavuz’un Şah İsmail’i yendiği 1514 savaşı",
-    "cat": "Tarih"
-   },
-   {
-    "id": "D14",
-    "n": 14,
-    "dir": "D",
-    "r": 8,
-    "c": 1,
-    "answer": "ÇAKMAK",
-    "clue": "Ateş yakmaya yarayan küçük araç",
-    "cat": "Genel"
+    "c": 7,
+    "answer": "AKREP",
+    "clue": "Kuyruğunda zehirli iğne taşıyan canlı",
+    "cat": "Doğa"
    },
    {
     "id": "D15",
     "n": 15,
     "dir": "D",
-    "r": 8,
-    "c": 14,
-    "answer": "İŞKEMBE",
-    "clue": "Sirke ve sarımsakla servis edilen çorba",
-    "cat": "Yemek"
+    "r": 10,
+    "c": 4,
+    "answer": "RAGBİ",
+    "clue": "Oval topla oynanan sert takım oyunu",
+    "cat": "Spor"
    },
    {
-    "id": "D16",
+    "id": "A16",
     "n": 16,
+    "dir": "A",
+    "r": 10,
+    "c": 8,
+    "answer": "ENERJİ",
+    "clue": "İş yapabilme yeteneği",
+    "cat": "Bilim"
+   },
+   {
+    "id": "D17",
+    "n": 17,
     "dir": "D",
     "r": 10,
-    "c": 10,
-    "answer": "TEYZE",
-    "clue": "Annenin kız kardeşi",
-    "cat": "Genel"
-   },
-   {
-    "id": "A17",
-    "n": 17,
-    "dir": "A",
-    "r": 11,
-    "c": 9,
-    "answer": "DERECE",
-    "clue": "Sıcaklığı veya açıyı ölçmede kullanılan birim",
-    "cat": "Bilim"
+    "c": 11,
+    "answer": "RENDE",
+    "clue": "Peynir ve havucu ince ince doğrayan delikli mutfak aleti",
+    "cat": "Yemek"
    },
    {
     "id": "A18",
     "n": 18,
     "dir": "A",
-    "r": 12,
-    "c": 0,
-    "answer": "ÇAĞLAYAN",
-    "clue": "Yüksekten gürül gürül akan dere",
-    "cat": "Doğa"
+    "r": 11,
+    "c": 4,
+    "answer": "AMPUL",
+    "clue": "Edison’un geliştirdiği ışık veren cam",
+    "cat": "Bilim"
    },
    {
     "id": "A19",
     "n": 19,
     "dir": "A",
+    "r": 12,
+    "c": 9,
+    "answer": "FİNCAN",
+    "clue": "Kahve içilen küçük kap",
+    "cat": "Genel"
+   },
+   {
+    "id": "A20",
+    "n": 20,
+    "dir": "A",
     "r": 14,
-    "c": 3,
-    "answer": "KARACİĞER",
-    "clue": "Safra üreten en büyük iç organ",
-    "cat": "Bilim"
+    "c": 0,
+    "answer": "HİNDİSTAN",
+    "clue": "Tac Mahal’in ülkesi",
+    "cat": "Coğrafya"
+   },
+   {
+    "id": "A21",
+    "n": 21,
+    "dir": "A",
+    "r": 14,
+    "c": 10,
+    "answer": "ŞEHİT",
+    "clue": "Vatan uğruna hayatını yitiren",
+    "cat": "Tarih"
    }
   ]
  },
  {
   "schema": 1,
   "id": "klasik-kolay-082",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "kolay",
   "title": "Klasik bulmaca LXXXII",
@@ -21359,7 +21329,7 @@
    "FORMA##DOKTOR#E",
    "#F########A#U#Y",
    "#Y##########P#İ",
-   "ÇATALHÖYÜK#WATT"
+   "ÇATALHÖYÜK#MART"
   ],
   "entries": [
    {
@@ -21588,9 +21558,9 @@
     "dir": "A",
     "r": 14,
     "c": 11,
-    "answer": "WATT",
-    "clue": "Gücün ölçü birimi",
-    "cat": "Bilim"
+    "answer": "MART",
+    "clue": "İlkbaharın ilk ayı",
+    "cat": "Genel"
    }
   ]
  },
@@ -22784,7 +22754,7 @@
     "r": 4,
     "c": 13,
     "answer": "IZGARA",
-    "clue": "Közde veya ızgara üstünde pişirme yöntemi",
+    "clue": "Köfte ve balığın üstünde piştiği demir çubuklu düzenek",
     "cat": "Yemek"
    },
    {
@@ -22995,7 +22965,7 @@
     "r": 2,
     "c": 9,
     "answer": "SALATALIK",
-    "clue": "Yeşil, serinletici, salatalık turşusu da yapılan sebze",
+    "clue": "Yeşil kabuklu, serinletici, cacığa doğranan sebze",
     "cat": "Yemek"
    },
    {
@@ -23386,7 +23356,7 @@
     "r": 14,
     "c": 6,
     "answer": "KOCATEPE",
-    "clue": "Afyon’da Büyük Taarruz’un ilk günlerinde alınan tepe",
+    "clue": "Atatürk’ün Büyük Taarruz’u yönettiği Afyon’daki tepe",
     "cat": "Tarih"
    }
   ]
@@ -23557,7 +23527,7 @@
     "r": 7,
     "c": 2,
     "answer": "RENDE",
-    "clue": "Peynir veya havuç ezmek için kullanılan delikli mutfak aleti",
+    "clue": "Peynir ve havucu ince ince doğrayan delikli mutfak aleti",
     "cat": "Yemek"
    },
    {
@@ -23645,7 +23615,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-091",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca XCI",
@@ -23665,9 +23635,9 @@
    "#L#F##O#S#İ#A#S",
    "#B#İ##S#Ö###K#İ",
    "TÜMLEÇ##Z#####L",
-   "#L##N#VOLT#W##İ",
+   "#L##N#VOLT#S##İ",
    "####G###Ü#KAĞAN",
-   "###ZEYBEK##T###",
+   "###ZEYBEK##A###",
    "####L####İFTAR#"
   ],
   "entries": [
@@ -23678,7 +23648,7 @@
     "r": 0,
     "c": 0,
     "answer": "SİNEK",
-    "clue": "Vızıldayarak sokan küçük uçan haşere",
+    "clue": "Vızıldayan, çöplere üşüşen küçük uçan böcek",
     "cat": "Doğa"
    },
    {
@@ -23857,9 +23827,9 @@
     "dir": "D",
     "r": 11,
     "c": 11,
-    "answer": "WATT",
-    "clue": "Gücün ölçü birimi",
-    "cat": "Bilim"
+    "answer": "SAAT",
+    "clue": "Zamanı gösteren araç",
+    "cat": "Genel"
    },
    {
     "id": "A19",
@@ -24481,7 +24451,7 @@
     "r": 5,
     "c": 2,
     "answer": "ANESTEZİ",
-    "clue": "Ameliyatta duyguyu geçici olarak gideren uygulama",
+    "clue": "Ameliyatta ağrı duyusunu geçici gideren uygulama",
     "cat": "Bilim"
    },
    {
@@ -25101,7 +25071,7 @@
  {
   "schema": 1,
   "id": "klasik-zor-097",
-  "version": 1,
+  "version": 2,
   "type": "klasik",
   "difficulty": "zor",
   "title": "Klasik bulmaca XCVII",
@@ -25120,11 +25090,11 @@
    "#MATKAP#M##L##T",
    "#A#E#R#YENGEÇ##",
    "#Z#R#######M#B#",
-   "Ç#MİMAR#TEREYAĞ",
-   "O#I######L###R#",
-   "C#SOYADI#M###D#",
+   "Ç#MİMAR#MİNERAL",
+   "O#I######F###R#",
+   "C#SOYADI#T###D#",
    "U#I#####SAMURAY",
-   "KARTACA##S###K#"
+   "KARTACA##R###K#"
   ],
   "entries": [
    {
@@ -25303,9 +25273,9 @@
     "dir": "A",
     "r": 10,
     "c": 8,
-    "answer": "TEREYAĞ",
-    "clue": "Sütün yağından yapılan, ekmeğe sürülen sarı katı yağ",
-    "cat": "Yemek"
+    "answer": "MİNERAL",
+    "clue": "Doğada bulunan kristal yapılı katı madde",
+    "cat": "Bilim"
    },
    {
     "id": "D15",
@@ -25313,9 +25283,9 @@
     "dir": "D",
     "r": 10,
     "c": 9,
-    "answer": "ELMAS",
-    "clue": "En sert, ışıltılı değerli taş",
-    "cat": "Doğa"
+    "answer": "İFTAR",
+    "clue": "Ramazanda akşam orucu açma yemeği",
+    "cat": "Genel"
    },
    {
     "id": "A16",

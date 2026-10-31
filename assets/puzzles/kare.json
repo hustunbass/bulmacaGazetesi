@@ -374,7 +374,7 @@
  {
   "schema": 1,
   "id": "kare-orta-03",
-  "version": 1,
+  "version": 2,
   "type": "kare",
   "difficulty": "orta",
   "title": "Kare bulmaca III",
@@ -389,7 +389,7 @@
    "E#O##MASA#I",
    "##Ğ##I##Z#R",
    "T#UÇAK##G##",
-   "I#R##N#FİİL",
+   "İ#R##N#FİİL",
    "M#TABAK#R##",
    "S####T#ATOM",
    "A####I####A",
@@ -492,8 +492,8 @@
     "dir": "D",
     "r": 5,
     "c": 0,
-    "answer": "TIMSAH",
-    "clue": "Nehirlerde yaşayan iri sürüngen",
+    "answer": "TİMSAH",
+    "clue": "Nehirlerde yaşayan, geniş çeneli sürüngen",
     "cat": "Doğa"
    },
    {

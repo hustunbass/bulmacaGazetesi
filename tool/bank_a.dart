@@ -253,7 +253,7 @@ const List<Word> bankA = [
     'Coğrafya',
     2,
   ),
-  ('GÖREME', 'Peri bacalarının ortasındaki Nevşehir ilçesi', 'Coğrafya', 2),
+  ('GÖREME', 'Peri bacalarıyla ünlü Nevşehir beldesi', 'Coğrafya', 2),
   (
     'AVANOS',
     'Çömlekçiliğiyle ünlü, Kızılırmak kıyısı Nevşehir ilçesi',
@@ -286,7 +286,7 @@ const List<Word> bankA = [
   ('SÜPHAN', 'Van Gölü’nün kuzeyindeki sönmüş yanardağ', 'Coğrafya', 2),
   (
     'MENDERES',
-    'Kıvrılarak akan Ege nehri; kıvrım sözcüğünün kökeni',
+    'Batı dillerindeki “meander” sözcüğüne adını veren Ege nehri',
     'Coğrafya',
     2,
   ),
@@ -311,7 +311,7 @@ const List<Word> bankA = [
   ('BANGKOK', 'Tayland’ın başkenti', 'Coğrafya', 2),
   ('HANOİ', 'Vietnam’ın başkenti', 'Coğrafya', 2),
   ('SEUL', 'Güney Kore’nin başkenti', 'Coğrafya', 2),
-  ('KANBERA', 'Sidney değil, Avustralya’nın gerçek başkenti', 'Coğrafya', 2),
+  ('KANBERRA', 'Sidney değil, Avustralya’nın gerçek başkenti', 'Coğrafya', 2),
   ('HAVANA', 'Küba’nın başkenti', 'Coğrafya', 2),
   ('LİMA', 'Peru’nun başkenti', 'Coğrafya', 2),
   ('OSLO', 'Norveç’in başkenti', 'Coğrafya', 2),
@@ -414,7 +414,7 @@ const List<Word> bankA = [
   ),
   (
     'KOCATEPE',
-    'Afyon’da Büyük Taarruz’un ilk günlerinde alınan tepe',
+    'Atatürk’ün Büyük Taarruz’u yönettiği Afyon’daki tepe',
     'Tarih',
     2,
   ),
@@ -569,7 +569,7 @@ const List<Word> bankA = [
   ('MALEZYA', 'Kuala Lumpur başkentli Güneydoğu Asya ülkesi', 'Coğrafya', 1),
   ('TÜRKİYE', 'Ankara başkentli, iki kıtaya yayılan ülkemiz', 'Coğrafya', 1),
   ('SİNGAPUR', 'Bir şehirden ibaret Asya ada devleti', 'Coğrafya', 1),
-  ('ISLAMABAD', 'Pakistan’ın başkenti', 'Coğrafya', 2),
+  ('İSLAMABAD', 'Pakistan’ın başkenti', 'Coğrafya', 2),
   ('KATMANDU', 'Nepal’in başkenti', 'Coğrafya', 2),
   (
     'KARTACA',

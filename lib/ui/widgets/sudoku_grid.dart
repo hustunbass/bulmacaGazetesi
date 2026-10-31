@@ -16,11 +16,15 @@ class SudokuGridView extends StatelessWidget {
     required this.session,
     required this.onCellTap,
     this.showConflicts = true,
+    this.showWrong = true,
   });
 
   final AttemptSession session;
   final void Function(int cell) onCellTap;
   final bool showConflicts;
+
+  /// Kontrol sonrası cevap anahtarına göre yanlış rakamları işaretle.
+  final bool showWrong;
 
   @override
   Widget build(BuildContext context) {
@@ -59,6 +63,7 @@ class SudokuGridView extends StatelessWidget {
                         pal,
                         cell,
                         showConflicts,
+                        showWrong,
                         onCellTap,
                       ),
                     ),
@@ -139,6 +144,7 @@ class _DynamicSudoku extends CustomPainter {
     this.pal,
     this.cell,
     this.showConflicts,
+    this.showWrong,
     this.onTap,
   ) : super(repaint: session);
   final AttemptSession session;
@@ -146,6 +152,7 @@ class _DynamicSudoku extends CustomPainter {
   final Palette pal;
   final double cell;
   final bool showConflicts;
+  final bool showWrong;
   final void Function(int) onTap;
 
   @override
@@ -174,7 +181,8 @@ class _DynamicSudoku extends CustomPainter {
       }
       final v = game.values[i];
       if (v != 0 && !game.isGiven(i)) {
-        final bad = conflicts.contains(i);
+        final bad =
+            conflicts.contains(i) || (showWrong && game.wrong.contains(i));
         _digit(canvas, i, v, bad ? pal.bad : pal.accent, FontWeight.w600, cell);
         if (bad) {
           // Hata: renk + altı çizgili çapraz işaret (renkten bağımsız).
@@ -248,6 +256,7 @@ class _DynamicSudoku extends CustomPainter {
       old.cell != cell ||
       old.pal != pal ||
       old.showConflicts != showConflicts ||
+      old.showWrong != showWrong ||
       old.game != game;
 
   @override

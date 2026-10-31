@@ -263,7 +263,7 @@ class PuzzleActions {
       final g = s.sudoku!;
       late CheckResult r;
       s.mutate(() => r = g.check(), message: null);
-      say(context, _sudokuMessage(r));
+      say(context, _wordMessage(r, c.settings.highlightErrors));
       return;
     }
     final choice = await _menu<String>(context, 'Kontrol', [
@@ -301,16 +301,6 @@ class PuzzleActions {
       '${r.correct} doğru',
     ];
     return '${parts.join(', ')}.';
-  }
-
-  static String _sudokuMessage(CheckResult r) {
-    if (r.wrong == 0) {
-      return r.empty == 0
-          ? 'Kurallara aykırı hücre yok.'
-          : 'Şu ana kadar kurallara aykırı hücre yok; ${r.empty} hücre boş.';
-    }
-    return '${r.wrong} hücre satır, sütun veya bölge kuralına aykırı '
-        '(sayı tekrar ediyor). Bu kontrol cevap anahtarına göre değil, kurallara göredir.';
   }
 
   // ---------------------------------------------------------- sıfırla / yeni

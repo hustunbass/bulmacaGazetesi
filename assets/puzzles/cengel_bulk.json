@@ -46,7 +46,7 @@
     "clueR": 0,
     "clueC": 5,
     "answer": "KUBBE",
-    "clue": "Camii üstündeki yarım küre biçimli örtü"
+    "clue": "Caminin üstündeki yarım küre biçimli örtü"
    },
    {
     "id": "e4",
@@ -102,7 +102,7 @@
     "clueR": 4,
     "clueC": 6,
     "answer": "SİNEK",
-    "clue": "Vızıldayarak sokan küçük uçan haşere"
+    "clue": "Vızıldayan, çöplere üşüşen küçük uçan böcek"
    },
    {
     "id": "e11",
@@ -141,7 +141,7 @@
  {
   "schema": 1,
   "id": "cengel-zor-006",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "zor",
   "title": "Çengel bulmaca VI",
@@ -151,15 +151,15 @@
   "cols": 11,
   "grid": [
    "###########",
-   "#EINSTEIN##",
+   "#EİNSTEİN##",
    "##S#A###E##",
    "#KOLTUK#O#G",
    "##T#Ü###N#R",
    "#T##R#####A",
    "#UTANÇ##F#N",
-   "#N#M##C#A#İ",
+   "#N#M##L#A#İ",
    "#ARP#HİCRET",
-   "###U##V#S##",
+   "###U##M#S##",
    "#OKLAVA####"
   ],
   "entries": [
@@ -168,7 +168,7 @@
     "dir": "A",
     "clueR": 1,
     "clueC": 0,
-    "answer": "EINSTEIN",
+    "answer": "EİNSTEİN",
     "clue": "Görelilik kuramının sahibi bilim insanı"
    },
    {
@@ -176,7 +176,7 @@
     "dir": "D",
     "clueR": 0,
     "clueC": 2,
-    "answer": "ISOT",
+    "answer": "İSOT",
     "clue": "Urfa’nın koyu mor acı biberi"
    },
    {
@@ -248,8 +248,8 @@
     "dir": "D",
     "clueR": 6,
     "clueC": 6,
-    "answer": "CİVA",
-    "clue": "Oda sıcaklığında sıvı olan tek metal"
+    "answer": "LİMA",
+    "clue": "Peru’nun başkenti"
    },
    {
     "id": "e12",
@@ -280,7 +280,7 @@
  {
   "schema": 1,
   "id": "cengel-zor-007",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "zor",
   "title": "Çengel bulmaca VII",
@@ -291,7 +291,7 @@
   "grid": [
    "###########",
    "######MOHAÇ",
-   "##T##M###S#",
+   "##T##M###Ş#",
    "#ARP#I##HUŞ",
    "##A##Z#N#R#",
    "##KLOR#EFES",
@@ -315,7 +315,7 @@
     "dir": "D",
     "clueR": 0,
     "clueC": 9,
-    "answer": "ASURE",
+    "answer": "AŞURE",
     "clue": "Muharrem ayında pişirilen bol malzemeli tatlı"
    },
    {
@@ -332,7 +332,7 @@
     "clueR": 1,
     "clueC": 5,
     "answer": "MIZRAK",
-    "clue": "Atletlerin fırlattığı uzun sivri araç"
+    "clue": "Eski savaşçıların uzun saplı, sivri uçlu silahı"
    },
    {
     "id": "e5",
@@ -880,7 +880,7 @@
     "clueR": 1,
     "clueC": 1,
     "answer": "KANUN",
-    "clue": "Tezeneyle çalınan yatay telli çalgı"
+    "clue": "Kucakta yatay tutulup mızrapla çalınan telli çalgı"
    },
    {
     "id": "e6",
@@ -1257,7 +1257,7 @@
     "clueR": 0,
     "clueC": 5,
     "answer": "DİSK",
-    "clue": "Atletlerin döne döne fırlattığı yassı halka"
+    "clue": "Atletlerin döne döne fırlattığı yassı ağırlık"
    },
    {
     "id": "e3",
@@ -1360,7 +1360,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-015",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XV",
@@ -1375,9 +1375,9 @@
    "#SUMAK#DİSK",
    "##L#R##L#A#",
    "##EŞANLAMLI",
-   "#B##C##R##S",
-   "#AÇMA#####O",
-   "#Z###KRİKET"
+   "#B##C##R##T",
+   "#AÇMA#####R",
+   "#Z###ABBASİ"
   ],
   "entries": [
    {
@@ -1434,7 +1434,7 @@
     "clueR": 3,
     "clueC": 6,
     "answer": "DİSK",
-    "clue": "Atletlerin döne döne fırlattığı yassı halka"
+    "clue": "Atletlerin döne döne fırlattığı yassı ağırlık"
    },
    {
     "id": "e8",
@@ -1449,8 +1449,8 @@
     "dir": "D",
     "clueR": 4,
     "clueC": 10,
-    "answer": "ISOT",
-    "clue": "Urfa’nın koyu mor acı biberi"
+    "answer": "ITRİ",
+    "clue": "Tekbir’i besteleyen klasik Türk müziği ustası"
    },
    {
     "id": "e10",
@@ -1473,8 +1473,8 @@
     "dir": "A",
     "clueR": 8,
     "clueC": 4,
-    "answer": "KRİKET",
-    "clue": "İngiliz kökenli, sopayla oynanan takım oyunu"
+    "answer": "ABBASİ",
+    "clue": "Bağdat’ı başkent yapan İslam hanedanı"
    }
   ]
  },
@@ -1759,7 +1759,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-018",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XVIII",
@@ -1769,7 +1769,7 @@
   "cols": 11,
   "grid": [
    "###########",
-   "###KANBERA#",
+   "###BAKLAVA#",
    "#########Ğ#",
    "##K#DUBLÖR#",
    "##E#Ö####I#",
@@ -1786,8 +1786,8 @@
     "dir": "A",
     "clueR": 1,
     "clueC": 2,
-    "answer": "KANBERA",
-    "clue": "Sidney değil, Avustralya’nın gerçek başkenti"
+    "answer": "BAKLAVA",
+    "clue": "Kat kat yufkalı, şerbetli tatlı"
    },
    {
     "id": "e2",
@@ -2298,7 +2298,7 @@
  {
   "schema": 1,
   "id": "cengel-zor-022",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "zor",
   "title": "Çengel bulmaca XXII",
@@ -2312,7 +2312,7 @@
    "##SARIKAMIŞ",
    "#C#M#Ğ#R##A",
    "#E#İ###S##L",
-   "#SERVER###G",
+   "#SURİYE###G",
    "#A#####AÇMA",
    "#R#L#D#S##M",
    "#EZOGELİN##",
@@ -2373,8 +2373,8 @@
     "dir": "A",
     "clueR": 5,
     "clueC": 0,
-    "answer": "SERVER",
-    "clue": "Ağdaki bilgisayarlara hizmet veren ana makine"
+    "answer": "SURİYE",
+    "clue": "Güney sınırımızdaki, Şam başkentli komşu"
    },
    {
     "id": "e8",
@@ -2465,7 +2465,7 @@
     "clueR": 1,
     "clueC": 0,
     "answer": "PAZI",
-    "clue": "Yeşil yapraklı, kökü kırmızı saplı ot"
+    "clue": "Sarması ve kavurması yapılan geniş yapraklı sebze"
    },
    {
     "id": "e3",
@@ -3393,7 +3393,7 @@
  {
   "schema": 1,
   "id": "cengel-kolay-030",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "kolay",
   "title": "Çengel bulmaca XXX",
@@ -3411,7 +3411,7 @@
    "#R#Ü#A#UMUT",
    "##ERİK#Y#K#",
    "###G##KAYAK",
-   "##SERV#K#T#"
+   "##DEDE#K#T#"
   ],
   "entries": [
    {
@@ -3516,15 +3516,15 @@
     "clueR": 8,
     "clueC": 5,
     "answer": "KAYAK",
-    "clue": "Karda kızakla kayarak yapılan spor"
+    "clue": "Karda ayağa takılan uzun tahtalarla yapılan spor"
    },
    {
     "id": "e14",
     "dir": "A",
     "clueR": 9,
     "clueC": 1,
-    "answer": "SERV",
-    "clue": "İnce uzun, mezarlıklarda sık görülen ağaç"
+    "answer": "DEDE",
+    "clue": "Annenin ya da babanın babası"
    }
   ]
  },
@@ -3877,7 +3877,7 @@
     "clueR": 2,
     "clueC": 10,
     "answer": "IZGARA",
-    "clue": "Közde veya ızgara üstünde pişirme yöntemi"
+    "clue": "Köfte ve balığın üstünde piştiği demir çubuklu düzenek"
    },
    {
     "id": "e7",
@@ -4579,7 +4579,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-039",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XXXIX",
@@ -4589,7 +4589,7 @@
   "cols": 11,
   "grid": [
    "###########",
-   "#MEVLİD#U##",
+   "#MEVLİT#U##",
    "#E#####ASUR",
    "#R######U##",
    "#C#BREZİLYA",
@@ -4614,8 +4614,8 @@
     "dir": "A",
     "clueR": 1,
     "clueC": 0,
-    "answer": "MEVLİD",
-    "clue": "Peygamber doğumunu anlatan uzun şiir"
+    "answer": "MEVLİT",
+    "clue": "Süleyman Çelebi’nin Peygamber’in doğumunu anlatan şiiri"
    },
    {
     "id": "e3",
@@ -4833,7 +4833,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-041",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XLI",
@@ -4844,13 +4844,13 @@
   "grid": [
    "###########",
    "#####ÇIĞ###",
-   "#O#S#Ö####N",
-   "#K#A#K#ROMA",
-   "#SERVER###Z",
-   "#İ#M#L##T#İ",
-   "#J#ALERJİ#K",
-   "#E#Ş#K##M#L",
-   "#N#I###MANİ",
+   "#A#S#Ö####N",
+   "#R#A#K#ROMA",
+   "#KORNER###Z",
+   "#A#M#L##T#İ",
+   "#D#ALERJİ#K",
+   "#A#Ş#K##M#L",
+   "#Ş#I###MANİ",
    "###KEÇİ#R#K"
   ],
   "entries": [
@@ -4875,8 +4875,8 @@
     "dir": "D",
     "clueR": 1,
     "clueC": 1,
-    "answer": "OKSİJEN",
-    "clue": "Soluduğumuz havadaki yaşam gazı"
+    "answer": "ARKADAŞ",
+    "clue": "Sevilen, birlikte vakit geçirilen kişi"
    },
    {
     "id": "e4",
@@ -4907,8 +4907,8 @@
     "dir": "A",
     "clueR": 4,
     "clueC": 0,
-    "answer": "SERVER",
-    "clue": "Ağdaki bilgisayarlara hizmet veren ana makine"
+    "answer": "KORNER",
+    "clue": "Kale çizgisinden kullanılan köşe atışı"
    },
    {
     "id": "e8",
@@ -4947,7 +4947,7 @@
  {
   "schema": 1,
   "id": "cengel-kolay-042",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "kolay",
   "title": "Çengel bulmaca XLII",
@@ -4962,10 +4962,10 @@
    "#KAMERA#Ş#P",
    "#A##R#S#A#U",
    "#P#YELKEN#L",
-   "#T#A##E##S#",
+   "#T#A##E##D#",
    "#A#Ğ##RİZE#",
-   "#N#MUZ###R#",
-   "###U#####V#",
+   "#N#MUZ###D#",
+   "###U#####E#",
    "#PARANTEZ##"
   ],
   "entries": [
@@ -5054,8 +5054,8 @@
     "dir": "D",
     "clueR": 5,
     "clueC": 9,
-    "answer": "SERV",
-    "clue": "İnce uzun, mezarlıklarda sık görülen ağaç"
+    "answer": "DEDE",
+    "clue": "Annenin ya da babanın babası"
    },
    {
     "id": "e12",
@@ -5701,7 +5701,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-048",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XLVIII",
@@ -5717,9 +5717,9 @@
    "#TAVUK#ÜSLÜ",
    "##N##A##A#P",
    "#EKİDNA###H",
-   "##R##B#CİVA",
-   "#YELKEN###N",
-   "##A##R#####",
+   "##R##A#CIVA",
+   "#PEKARİ###N",
+   "##A##Y#####",
    "##SİVAS####"
   ],
   "entries": [
@@ -5776,8 +5776,8 @@
     "dir": "D",
     "clueR": 3,
     "clueC": 5,
-    "answer": "KANBERA",
-    "clue": "Sidney değil, Avustralya’nın gerçek başkenti"
+    "answer": "KANARYA",
+    "clue": "Kafeste beslenen, sarı tüylü şarkıcı kuş"
    },
    {
     "id": "e8",
@@ -5800,7 +5800,7 @@
     "dir": "A",
     "clueR": 7,
     "clueC": 6,
-    "answer": "CİVA",
+    "answer": "CIVA",
     "clue": "Oda sıcaklığında sıvı olan tek metal"
    },
    {
@@ -5808,8 +5808,8 @@
     "dir": "A",
     "clueR": 8,
     "clueC": 0,
-    "answer": "YELKEN",
-    "clue": "Rüzgârla teknenin ilerlediği su sporu"
+    "answer": "PEKARİ",
+    "clue": "Güney Amerika ormanlarında yaşayan, domuza benzeyen hayvan"
    },
    {
     "id": "e12",
@@ -6467,7 +6467,7 @@
     "clueR": 0,
     "clueC": 10,
     "answer": "TULUM",
-    "clue": "Deri tulumda olgunlaşan, kuvvetli kokulu peynir"
+    "clue": "Keçi derisinde olgunlaşan, kuvvetli kokulu peynir"
    },
    {
     "id": "e4",
@@ -6590,7 +6590,7 @@
     "clueR": 0,
     "clueC": 7,
     "answer": "ALPLER",
-    "clue": "Avrupa’nın en yüksek dağ silsilesi"
+    "clue": "Mont Blanc’ın yer aldığı Avrupa sıradağları"
    },
    {
     "id": "e4",
@@ -6850,7 +6850,7 @@
     "clueR": 3,
     "clueC": 5,
     "answer": "KANUN",
-    "clue": "Tezeneyle çalınan yatay telli çalgı"
+    "clue": "Kucakta yatay tutulup mızrapla çalınan telli çalgı"
    },
    {
     "id": "e6",
@@ -6897,7 +6897,7 @@
  {
   "schema": 1,
   "id": "cengel-zor-058",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "zor",
   "title": "Çengel bulmaca LVIII",
@@ -6915,7 +6915,7 @@
    "#M#N###R###",
    "#A##KOZMOS#",
    "#K##Ü##A#U#",
-   "#ASURE###M#",
+   "#AŞURE###M#",
    "#M##E#ORYON"
   ],
   "entries": [
@@ -6996,7 +6996,7 @@
     "dir": "A",
     "clueR": 9,
     "clueC": 0,
-    "answer": "ASURE",
+    "answer": "AŞURE",
     "clue": "Muharrem ayında pişirilen bol malzemeli tatlı"
    },
    {
@@ -7513,14 +7513,14 @@
     "clueR": 10,
     "clueC": 0,
     "answer": "SİNEK",
-    "clue": "Vızıldayarak sokan küçük uçan haşere"
+    "clue": "Vızıldayan, çöplere üşüşen küçük uçan böcek"
    }
   ]
  },
  {
   "schema": 1,
   "id": "cengel-zor-063",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "zor",
   "title": "Çengel bulmaca LXIII",
@@ -7535,7 +7535,7 @@
    "#L##I#B#O#E",
    "#A#ASPENDOS",
    "#Y##T#L#L#K",
-   "#N#PELİKAN#",
+   "#N#HACİVAT#",
    "#A##K#R#M##",
    "#KISALTMA##",
    "######E####",
@@ -7579,7 +7579,7 @@
     "dir": "D",
     "clueR": 2,
     "clueC": 4,
-    "answer": "ISTEKA",
+    "answer": "ISTAKA",
     "clue": "Bilardo topuna vurulan uzun sopa"
    },
    {
@@ -7603,8 +7603,8 @@
     "dir": "A",
     "clueR": 6,
     "clueC": 2,
-    "answer": "PELİKAN",
-    "clue": "Gagasının altında balık torbası olan su kuşu"
+    "answer": "HACİVAT",
+    "clue": "Karagöz’le atışan gölge oyunu kahramanı"
    },
    {
     "id": "e9",
@@ -7627,7 +7627,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-064",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca LXIV",
@@ -7641,7 +7641,7 @@
    "##Ü#####L#I",
    "##MECAZ#B#S",
    "##B#####A#T",
-   "#TÜRKÜ##T#E",
+   "#TÜRKÜ##T#A",
    "##L#A#SIRIK",
    "####F###O#A",
    "#PİRİREİS##",
@@ -7678,7 +7678,7 @@
     "dir": "D",
     "clueR": 1,
     "clueC": 10,
-    "answer": "ISTEKA",
+    "answer": "ISTAKA",
     "clue": "Bilardo topuna vurulan uzun sopa"
    },
    {
@@ -7711,7 +7711,7 @@
     "clueR": 6,
     "clueC": 5,
     "answer": "SIRIK",
-    "clue": "Yüksek atlamada kullanılan uzun esnek çubuk"
+    "clue": "Atletin çıtayı aşmak için dayandığı uzun esnek çubuk"
    },
    {
     "id": "e9",
@@ -7727,7 +7727,7 @@
     "clueR": 10,
     "clueC": 0,
     "answer": "İŞKEMBE",
-    "clue": "Sirke ve sarımsakla servis edilen çorba"
+    "clue": "Sirkeli sarımsaklı çorbası sevilen sakatat"
    }
   ]
  },
@@ -7770,7 +7770,7 @@
     "clueR": 0,
     "clueC": 7,
     "answer": "ANADİL",
-    "clue": "İnsanın ilk öğrendiği dil"
+    "clue": "Akraba dillerin türediği kaynak dil"
    },
    {
     "id": "e3",
@@ -7972,7 +7972,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-067",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca LXVII",
@@ -7982,97 +7982,129 @@
   "cols": 11,
   "grid": [
    "###########",
-   "####SEYHAN#",
-   "#P##E######",
-   "#A##L#FRESK",
-   "#SAFİR####O",
-   "#A##M###A#P",
-   "#R#LİZBON#E",
-   "#O##Y###A#R",
-   "#F#MEVLİD#N",
-   "#Ç######İ#İ",
-   "#A###LEYLEK"
+   "###B#T#R###",
+   "##PUSULA###",
+   "#K#Ğ#Z#K##Y",
+   "#UMUT#DELTA",
+   "#M#L#K#T##N",
+   "##YAKUT#D#K",
+   "#K#M#R#SALI",
+   "#E#A#Ş##M##",
+   "#D###U##A##",
+   "#İSKENDER##"
   ],
   "entries": [
    {
     "id": "e1",
-    "dir": "A",
-    "clueR": 1,
+    "dir": "D",
+    "clueR": 0,
     "clueC": 3,
-    "answer": "SEYHAN",
-    "clue": "Adana’nın içinden geçen nehir"
+    "answer": "BUĞULAMA",
+    "clue": "Kısık ateşte, kendi suyunda pişirme yöntemi"
    },
    {
     "id": "e2",
     "dir": "D",
     "clueR": 0,
-    "clueC": 4,
-    "answer": "SELİMİYE",
-    "clue": "Edirne’deki Mimar Sinan eseri külliye"
+    "clueC": 5,
+    "answer": "TUZ",
+    "clue": "Yemeğe lezzet veren beyaz mineral"
    },
    {
     "id": "e3",
     "dir": "D",
-    "clueR": 1,
-    "clueC": 1,
-    "answer": "PASAROFÇA",
-    "clue": "Lale Devri’nin başlangıcında imzalanan 1718 antlaşması"
+    "clueR": 0,
+    "clueC": 7,
+    "answer": "RAKET",
+    "clue": "Tenis ve badmintonda vurmaya yarayan araç"
    },
    {
     "id": "e4",
     "dir": "A",
-    "clueR": 3,
-    "clueC": 5,
-    "answer": "FRESK",
-    "clue": "Islak sıva üstüne yapılan duvar resmi"
+    "clueR": 2,
+    "clueC": 1,
+    "answer": "PUSULA",
+    "clue": "Yönü gösteren iğneli araç"
    },
    {
     "id": "e5",
     "dir": "D",
     "clueR": 2,
-    "clueC": 10,
-    "answer": "KOPERNİK",
-    "clue": "Güneş merkezli sistemi öneren astronom"
+    "clueC": 1,
+    "answer": "KUM",
+    "clue": "Plajda ve çölde bulunan ince taneler"
    },
    {
     "id": "e6",
-    "dir": "A",
-    "clueR": 4,
-    "clueC": 0,
-    "answer": "SAFİR",
-    "clue": "Mavi renkli değerli taş"
+    "dir": "D",
+    "clueR": 2,
+    "clueC": 10,
+    "answer": "YANKI",
+    "clue": "Sesin bir yüzeyden çarpıp geri dönmesi"
    },
    {
     "id": "e7",
-    "dir": "D",
+    "dir": "A",
     "clueR": 4,
-    "clueC": 8,
-    "answer": "ANADİL",
-    "clue": "İnsanın ilk öğrendiği dil"
+    "clueC": 0,
+    "answer": "UMUT",
+    "clue": "İyi bir şeyin olacağına duyulan inanç"
    },
    {
     "id": "e8",
     "dir": "A",
-    "clueR": 6,
-    "clueC": 2,
-    "answer": "LİZBON",
-    "clue": "Portekiz’in Atlantik kıyısındaki başkenti"
+    "clueR": 4,
+    "clueC": 5,
+    "answer": "DELTA",
+    "clue": "Nehrin denize ulaştığı yerde çatallanan alüvyon ovası"
    },
    {
     "id": "e9",
-    "dir": "A",
-    "clueR": 8,
-    "clueC": 2,
-    "answer": "MEVLİD",
-    "clue": "Peygamber doğumunu anlatan uzun şiir"
+    "dir": "D",
+    "clueR": 4,
+    "clueC": 5,
+    "answer": "KURŞUN",
+    "clue": "Ağır ve yumuşak gri metal"
    },
    {
     "id": "e10",
     "dir": "A",
+    "clueR": 6,
+    "clueC": 1,
+    "answer": "YAKUT",
+    "clue": "Kırmızı renkli değerli taş"
+   },
+   {
+    "id": "e11",
+    "dir": "D",
+    "clueR": 5,
+    "clueC": 8,
+    "answer": "DAMAR",
+    "clue": "İçinde kan dolaşan boru"
+   },
+   {
+    "id": "e12",
+    "dir": "D",
+    "clueR": 6,
+    "clueC": 1,
+    "answer": "KEDİ",
+    "clue": "Miyavlayan evcil hayvan"
+   },
+   {
+    "id": "e13",
+    "dir": "A",
+    "clueR": 7,
+    "clueC": 6,
+    "answer": "SALI",
+    "clue": "Haftanın ikinci günü"
+   },
+   {
+    "id": "e14",
+    "dir": "A",
     "clueR": 10,
-    "clueC": 4,
-    "answer": "LEYLEK",
-    "clue": "Uzun bacaklı, çatılara yuva yapan göçmen kuş"
+    "clueC": 0,
+    "answer": "İSKENDER",
+    "clue": "Makedonya’dan Hindistan’a uzanan seferleriyle ünlü kral"
    }
   ]
  },
@@ -8579,7 +8611,7 @@
  {
   "schema": 1,
   "id": "cengel-kolay-072",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "kolay",
   "title": "Çengel bulmaca LXXII",
@@ -8589,129 +8621,129 @@
   "cols": 11,
   "grid": [
    "###########",
-   "#Ş#Z######D",
-   "#U#O##E###İ",
-   "#TARÇIN#TUZ",
-   "##T###G#E#E",
-   "##L##ÇEVRE#",
-   "#SESİ#L#E#E",
-   "##T#####YIL",
-   "#ÇİKOLATA#M",
-   "##Z#####Ğ#A",
-   "##MEMELİ###"
+   "#PİDE#H##S#",
+   "###A#KARPUZ",
+   "#MAYO#R##L#",
+   "#E#I#DİŞ#U#",
+   "#R##B#T##B#",
+   "#SİNEMA##O#",
+   "#İ##Y##K#Y#",
+   "#N##İ#DAMAT",
+   "##KANO#S###",
+   "######AKŞAM"
   ],
   "entries": [
    {
     "id": "e1",
-    "dir": "D",
-    "clueR": 0,
-    "clueC": 1,
-    "answer": "ŞUT",
-    "clue": "Kaleye ya da potaya vuruş"
+    "dir": "A",
+    "clueR": 1,
+    "clueC": 0,
+    "answer": "PİDE",
+    "clue": "Kayık biçimli, fırında pişen hamur işi"
    },
    {
     "id": "e2",
     "dir": "D",
     "clueR": 0,
     "clueC": 3,
-    "answer": "ZOR",
-    "clue": "Kolay’ın karşıtı"
+    "answer": "DAYI",
+    "clue": "Annenin erkek kardeşi"
    },
    {
     "id": "e3",
     "dir": "D",
     "clueR": 0,
-    "clueC": 10,
-    "answer": "DİZE",
-    "clue": "Şiirde bir satır"
+    "clueC": 6,
+    "answer": "HARİTA",
+    "clue": "Yeryüzünün küçültülmüş çizimi"
    },
    {
     "id": "e4",
     "dir": "D",
-    "clueR": 1,
-    "clueC": 6,
-    "answer": "ENGEL",
-    "clue": "Koşucunun üzerinden atladığı çubuk"
+    "clueR": 0,
+    "clueC": 9,
+    "answer": "SULUBOYA",
+    "clue": "Su ile inceltilen boyayla yapılan resim"
    },
    {
     "id": "e5",
     "dir": "A",
-    "clueR": 3,
-    "clueC": 0,
-    "answer": "TARÇIN",
-    "clue": "Sütlaç üstüne serpilen, kokulu ağaç kabuğu baharatı"
+    "clueR": 2,
+    "clueC": 4,
+    "answer": "KARPUZ",
+    "clue": "Yazın en çok tüketilen iri yeşil kabuklu meyve"
    },
    {
     "id": "e6",
     "dir": "D",
     "clueR": 2,
-    "clueC": 2,
-    "answer": "ATLETİZM",
-    "clue": "Koşu, atlama ve atma yarışlarının tümü"
+    "clueC": 1,
+    "answer": "MERSİN",
+    "clue": "Toroslar’ın önündeki büyük Akdeniz limanı"
    },
    {
     "id": "e7",
-    "dir": "D",
-    "clueR": 2,
-    "clueC": 8,
-    "answer": "TEREYAĞ",
-    "clue": "Sütün yağından yapılan, ekmeğe sürülen sarı katı yağ"
+    "dir": "A",
+    "clueR": 3,
+    "clueC": 0,
+    "answer": "MAYO",
+    "clue": "Yüzücünün giydiği kıyafet"
    },
    {
     "id": "e8",
     "dir": "A",
-    "clueR": 3,
-    "clueC": 7,
-    "answer": "TUZ",
-    "clue": "Yemeğe lezzet veren beyaz mineral"
+    "clueR": 4,
+    "clueC": 4,
+    "answer": "DİŞ",
+    "clue": "Yemeği çiğnememize yarayan sert parça"
    },
    {
     "id": "e9",
-    "dir": "A",
-    "clueR": 5,
+    "dir": "D",
+    "clueR": 4,
     "clueC": 4,
-    "answer": "ÇEVRE",
-    "clue": "Bir şeklin kenarlarının toplam uzunluğu"
+    "answer": "BEYİN",
+    "clue": "Düşünmemizi sağlayan organ"
    },
    {
     "id": "e10",
     "dir": "A",
     "clueR": 6,
     "clueC": 0,
-    "answer": "SESİ",
-    "clue": "Bir elin nesi var, iki elin ... (atasözü sonu)"
+    "answer": "SİNEMA",
+    "clue": "Beyaz perdede film gösterilen sanat dalı"
    },
    {
     "id": "e11",
     "dir": "D",
-    "clueR": 5,
-    "clueC": 10,
-    "answer": "ELMA",
-    "clue": "Adem ile Havva’ya atfedilen yuvarlak meyve"
+    "clueR": 6,
+    "clueC": 7,
+    "answer": "KASK",
+    "clue": "Bisikletçinin başını koruyan sert başlık"
    },
    {
     "id": "e12",
     "dir": "A",
-    "clueR": 7,
-    "clueC": 7,
-    "answer": "YIL",
-    "clue": "On iki aylık süre"
+    "clueR": 8,
+    "clueC": 5,
+    "answer": "DAMAT",
+    "clue": "Gelinin eşi olan erkek; güvey"
    },
    {
     "id": "e13",
     "dir": "A",
-    "clueR": 8,
-    "clueC": 0,
-    "answer": "ÇİKOLATA",
-    "clue": "Kakaodan yapılan, kare kare kırılan tatlı"
+    "clueR": 9,
+    "clueC": 1,
+    "answer": "KANO",
+    "clue": "Çift uçlu kürekle ilerletilen dar tekne"
    },
    {
     "id": "e14",
     "dir": "A",
     "clueR": 10,
-    "clueC": 1,
-    "answer": "MEMELİ",
-    "clue": "Yavrusunu sütle besleyen hayvan"
+    "clueC": 5,
+    "answer": "AKŞAM",
+    "clue": "Güneşin battığı vakit"
    }
   ]
  },
@@ -8909,7 +8941,7 @@
     "clueR": 2,
     "clueC": 3,
     "answer": "KABARTMA",
-    "clue": "Yüzeyden dışa taşan oyma sanat"
+    "clue": "Yüzeyden dışa taşacak biçimde yapılan heykel, rölyef"
    },
    {
     "id": "e5",
@@ -9425,7 +9457,7 @@
     "clueR": 2,
     "clueC": 8,
     "answer": "TULUM",
-    "clue": "Deri tulumda olgunlaşan, kuvvetli kokulu peynir"
+    "clue": "Keçi derisinde olgunlaşan, kuvvetli kokulu peynir"
    },
    {
     "id": "e7",
@@ -9655,7 +9687,7 @@
     "clueR": 8,
     "clueC": 2,
     "answer": "KOCATEPE",
-    "clue": "Afyon’da Büyük Taarruz’un ilk günlerinde alınan tepe"
+    "clue": "Atatürk’ün Büyük Taarruz’u yönettiği Afyon’daki tepe"
    },
    {
     "id": "e10",
@@ -9714,7 +9746,7 @@
     "clueR": 2,
     "clueC": 1,
     "answer": "GAZAL",
-    "clue": "Şiirlerde güzel gözleriyle anılan çevik antilop"
+    "clue": "Ceylanın eski dildeki adı"
    },
    {
     "id": "e4",
@@ -10321,7 +10353,7 @@
     "clueR": 1,
     "clueC": 0,
     "answer": "KOCATEPE",
-    "clue": "Afyon’da Büyük Taarruz’un ilk günlerinde alınan tepe"
+    "clue": "Atatürk’ün Büyük Taarruz’u yönettiği Afyon’daki tepe"
    },
    {
     "id": "e2",
@@ -10361,7 +10393,7 @@
     "clueR": 2,
     "clueC": 4,
     "answer": "ANESTEZİ",
-    "clue": "Ameliyatta duyguyu geçici olarak gideren uygulama"
+    "clue": "Ameliyatta ağrı duyusunu geçici gideren uygulama"
    },
    {
     "id": "e7",
@@ -10590,7 +10622,7 @@
     "clueR": 4,
     "clueC": 2,
     "answer": "KAYAK",
-    "clue": "Karda kızakla kayarak yapılan spor"
+    "clue": "Karda ayağa takılan uzun tahtalarla yapılan spor"
    },
    {
     "id": "e10",
@@ -10606,7 +10638,7 @@
     "clueR": 5,
     "clueC": 9,
     "answer": "SESİ",
-    "clue": "Bir elin nesi var, iki elin ... (atasözü sonu)"
+    "clue": "Bir elin nesi var, iki elin ... var (atasözü)"
    },
    {
     "id": "e12",
@@ -11082,7 +11114,7 @@
     "clueR": 7,
     "clueC": 2,
     "answer": "PAZI",
-    "clue": "Yeşil yapraklı, kökü kırmızı saplı ot"
+    "clue": "Sarması ve kavurması yapılan geniş yapraklı sebze"
    },
    {
     "id": "e10",
@@ -11272,7 +11304,7 @@
     "clueR": 0,
     "clueC": 5,
     "answer": "BULGUR",
-    "clue": "Haşlanıp kurutulmuş buğdaydan yapılan pilav türü"
+    "clue": "Haşlanıp kurutulup kırılmış buğday"
    },
    {
     "id": "e3",
@@ -11613,7 +11645,7 @@
  {
   "schema": 1,
   "id": "cengel-orta-097",
-  "version": 1,
+  "version": 2,
   "type": "cengel",
   "difficulty": "orta",
   "title": "Çengel bulmaca XCVII",
@@ -11623,7 +11655,7 @@
   "cols": 11,
   "grid": [
    "###########",
-   "#TIMSAH####",
+   "#TİMSAH####",
    "#I#####K###",
    "#R####KEMİK",
    "#TÜREV#M##E",
@@ -11640,8 +11672,8 @@
     "dir": "A",
     "clueR": 1,
     "clueC": 0,
-    "answer": "TIMSAH",
-    "clue": "Nehirlerde yaşayan iri sürüngen"
+    "answer": "TİMSAH",
+    "clue": "Nehirlerde yaşayan, geniş çeneli sürüngen"
    },
    {
     "id": "e2",

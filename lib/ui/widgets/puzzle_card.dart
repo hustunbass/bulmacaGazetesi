@@ -78,6 +78,7 @@ class PuzzleCard extends ConsumerWidget {
                           : SudokuGridView(
                               session: s,
                               showConflicts: c.settings.sudokuShowConflicts,
+                              showWrong: c.settings.highlightErrors,
                               onCellTap: (i) => _open(context, s, i),
                             ),
                     ),

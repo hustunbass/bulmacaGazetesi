@@ -537,15 +537,104 @@ Future<void> bulk(String typeKey, int total) async {
   if (failures > 0) exit(1);
 }
 
+/// Belirtilen kelime bulmacalarını aynı kimlik ve başlıkla güncel bankadan
+/// yeniden üretir: `dart run tool/make_puzzles.dart regen <kimlik>...`.
+/// Sürüm bir artırılır; açık denemeler eski sürümün anlık görüntüsüyle sürer.
+Future<void> regen(List<String> ids) async {
+  final files = [
+    for (final f in Directory('assets/puzzles').listSync().whereType<File>())
+      if (f.path.endsWith('.json')) f,
+  ]..sort((a, b) => a.path.compareTo(b.path));
+  final lists = {
+    for (final f in files)
+      f: [
+        for (final j in jsonDecode(f.readAsStringSync()) as List)
+          PuzzleDefinition.fromJson(j as Map<String, dynamic>),
+      ],
+  };
+  final useCount = <PuzzleType, Map<String, int>>{};
+  for (final list in lists.values) {
+    for (final p in list) {
+      if (ids.contains(p.id)) continue;
+      final m = useCount.putIfAbsent(p.type, () => {});
+      for (final e in p.entries) {
+        m[e.answer] = (m[e.answer] ?? 0) + 1;
+      }
+    }
+  }
+  final pending = ids.toSet();
+  var failures = 0;
+  for (final MapEntry(key: f, value: list) in lists.entries) {
+    var changed = false;
+    for (var i = 0; i < list.length; i++) {
+      final old = list[i];
+      if (!pending.remove(old.id)) continue;
+      if (!old.type.isWord) {
+        stderr.writeln('ATLANDI: ${old.id} kelime bulmacası değil');
+        failures++;
+        continue;
+      }
+      // Kimlikten türetilen kararlı tohum (çalıştırmalar arasında aynı sonuç).
+      final seed = old.id.codeUnits.fold<int>(0, (a, b) => (a * 31 + b) % 9973);
+      final m = useCount.putIfAbsent(old.type, () => {});
+      PuzzleDefinition? p;
+      for (var attempt = 0; attempt < 5 && p == null; attempt++) {
+        p = _makeWord(
+          type: old.type,
+          diff: old.difficulty,
+          index: i,
+          baseSeed: 70000 + seed * 11 + attempt * 1013,
+          usedAnswers: <String>{},
+          useCount: m,
+          cap: 12,
+          restartsOverride: old.type == PuzzleType.klasik ? 110 : 70,
+          idOverride: old.id,
+          titleOverride: old.title,
+        );
+      }
+      if (p == null) {
+        stderr.writeln('BAŞARISIZ: ${old.id}');
+        failures++;
+        continue;
+      }
+      for (final e in p.entries) {
+        m[e.answer] = (m[e.answer] ?? 0) + 1;
+      }
+      list[i] = PuzzleDefinition.fromJson({
+        ...p.toJson(),
+        'version': old.version + 1,
+      });
+      changed = true;
+      stdout.writeln(
+        '  ${old.id}: yeniden üretildi (sürüm ${old.version + 1})',
+      );
+    }
+    if (changed) {
+      _write(f.uri.pathSegments.last.replaceAll('.json', ''), list);
+    }
+  }
+  for (final id in pending) {
+    stderr.writeln('BULUNAMADI: $id');
+    failures++;
+  }
+  if (failures > 0) exit(1);
+}
+
 Future<void> main(List<String> args) async {
   if (args.isNotEmpty && args.first == 'bulk') {
     await bulk(args[1], args.length > 2 ? int.parse(args[2]) : 100);
+    return;
+  }
+  if (args.isNotEmpty && args.first == 'regen') {
+    await regen(args.skip(1).toList());
     return;
   }
   if (!args.contains('--seed-set')) {
     stderr.writeln(
       'Kullanım:\n'
       '  dart tool/make_puzzles.dart bulk <cengel|kare|klasik|sudoku> [hedef]\n'
+      '  dart tool/make_puzzles.dart regen <kimlik>...   (bulmacayı aynı '
+      'kimlikle yeniden üretir, sürümü artırır)\n'
       '  dart tool/make_puzzles.dart --seed-set   (ilk 36 bulmacayı YENİDEN üretir; '
       'kayıtlı denemeleri bozabilir, kullanmayın)',
     );

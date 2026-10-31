@@ -184,7 +184,39 @@ void main() {
     g.inputDigit(g.given[clash]);
     r = g.check();
     expect(r.wrong, greaterThanOrEqualTo(1));
+    expect(g.wrong, contains(i));
     expect(g.checkCount, 2);
+  });
+
+  test('kontrol, kurala uyan ama yeri yanlış rakamı da yanlış bulur', () {
+    final g = game();
+    // Boş bir hücreye, o an satır/sütun/bölgede çakışmayan ama çözümdeki
+    // rakam olmayan bir sayı yazılır.
+    int? cell, digit;
+    for (var i = 0; i < 81 && cell == null; i++) {
+      if (g.isGiven(i)) continue;
+      for (var d = 1; d <= 9; d++) {
+        if (d == g.solution[i]) continue;
+        if (SudokuSolver.peers[i].every((p) => p == i || g.values[p] != d)) {
+          cell = i;
+          digit = d;
+          break;
+        }
+      }
+    }
+    expect(cell, isNotNull);
+    g.select(cell!);
+    g.inputDigit(digit!);
+    expect(g.conflicts, isEmpty, reason: 'kurala uygun yerleşim');
+    final r = g.check();
+    expect(r.wrong, 1);
+    expect(g.wrong, {cell});
+    // Doğru rakam yazılınca işaret kalkar ve doğru sayılır.
+    g.inputDigit(g.solution[cell]);
+    expect(g.wrong, isEmpty);
+    final r2 = g.check();
+    expect(r2.wrong, 0);
+    expect(r2.correct, 1);
   });
 
   test('sıfırla başlangıç sayılarını korur, gerisini temizler', () {

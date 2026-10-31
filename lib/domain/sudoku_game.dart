@@ -77,6 +77,10 @@ class SudokuGame implements PuzzleGame {
   late final List<int> values;
   late final List<int> notes;
   final Set<int> hinted = {};
+
+  /// Son kontrolün cevap anahtarına göre yanlış bulduğu hücreler
+  /// (düzenlenince temizlenir).
+  final Set<int> wrong = {};
   int selCell = -1;
   bool noteMode = false;
   @override
@@ -145,6 +149,7 @@ class SudokuGame implements PuzzleGame {
     for (final c in group) {
       values[c.cell] = c.vAfter;
       notes[c.cell] = c.nAfter;
+      wrong.remove(c.cell);
     }
     _undo.add(group);
     _redo.clear();
@@ -205,6 +210,7 @@ class SudokuGame implements PuzzleGame {
       for (final c in ok.reversed) {
         values[c.cell] = c.vBefore;
         notes[c.cell] = c.nBefore;
+        wrong.remove(c.cell);
       }
       _redo.add(ok);
       selCell = ok.first.cell;
@@ -225,6 +231,7 @@ class SudokuGame implements PuzzleGame {
       for (final c in ok) {
         values[c.cell] = c.vAfter;
         notes[c.cell] = c.nAfter;
+        wrong.remove(c.cell);
       }
       _undo.add(ok);
       selCell = ok.first.cell;
@@ -254,6 +261,7 @@ class SudokuGame implements PuzzleGame {
     values[i] = solution[i];
     notes[i] = 0;
     hinted.add(i);
+    wrong.remove(i);
     final bit = SudokuSolver.bit(solution[i]);
     for (final p in SudokuSolver.peers[i]) {
       if (values[p] == 0) notes[p] &= ~bit;
@@ -262,20 +270,25 @@ class SudokuGame implements PuzzleGame {
     return true;
   }
 
-  /// Kurallara aykırı hücre sayısı (cevap anahtarına göre değil).
+  /// Dolu hücreleri cevap anahtarına göre denetler; yanlışları [wrong] içine
+  /// işaretler. Kurala uyan ama yeri yanlış rakam da yanlış sayılır. Boş
+  /// hücreler yanlış sayılmaz.
   CheckResult check() {
     checkCount++;
-    final bad = conflicts.where((i) => !isGiven(i)).length;
-    var empty = 0, ok = 0;
+    wrong.clear();
+    var empty = 0, ok = 0, bad = 0;
     for (var i = 0; i < 81; i++) {
       if (given[i] != 0) continue;
       if (values[i] == 0) {
         empty++;
-      } else {
+      } else if (values[i] == solution[i]) {
         ok++;
+      } else {
+        bad++;
+        wrong.add(i);
       }
     }
-    return CheckResult(correct: ok - bad, wrong: bad, empty: empty);
+    return CheckResult(correct: ok, wrong: bad, empty: empty);
   }
 
   void resetAll() {
@@ -284,6 +297,7 @@ class SudokuGame implements PuzzleGame {
       notes[i] = 0;
     }
     hinted.clear();
+    wrong.clear();
     _undo.clear();
     _redo.clear();
     hintCount = checkCount = 0;

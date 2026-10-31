@@ -18,6 +18,36 @@ void main() {
     expect(ContentValidator.validatePool(lib.puzzles), isEmpty);
   });
 
+  test(
+    'yanlış/eski yazımlı cevap yok (çözücünün yazdığı biçim kutuya uyar)',
+    () {
+      // Çözücü doğru yazımı yazınca kutu sayısı ya da harf tutmuyordu.
+      const misspelled = {
+        'ASURE',
+        'CİVA',
+        'EDISON',
+        'EINSTEIN',
+        'ISLAMABAD',
+        'ISOT',
+        'ISTEKA',
+        'KANBERA',
+        'MEVLİD',
+        'PİRANHA',
+        'SERV',
+        'SERVER',
+        'TEREYAĞ',
+        'TIMSAH',
+        'WATT',
+      };
+      final found = [
+        for (final p in lib.puzzles)
+          for (final e in p.entries)
+            if (misspelled.contains(e.answer)) '${p.id}: ${e.answer}',
+      ];
+      expect(found, isEmpty);
+    },
+  );
+
   test('her kelime türünde en az dört bulmaca ve iki zorluk var', () {
     for (final t in [PuzzleType.cengel, PuzzleType.kare, PuzzleType.klasik]) {
       final list = lib.ofType(t);
